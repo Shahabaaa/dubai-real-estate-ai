@@ -1,0 +1,7 @@
+,MAE_AED,MedianAE_AED,MAPE_%,MedianAPE_%,within_10%,within_20%,R2,n
+Baseline (median AED/sqm x size),384186.4,161969.4,17.3,13.1,39.8,68.2,0.824,54521.0
+HistGradientBoosting,299170.4,128152.3,13.5,9.8,50.7,77.4,0.884,54521.0
+HistGradientBoosting - Unit,273139.1,119543.5,13.6,9.9,50.4,77.1,0.883,49749.0
+HistGradientBoosting - Villa,570552.4,289518.4,12.4,8.8,53.7,80.1,0.809,4772.0
+HistGradientBoosting - Off-plan,299254.2,125671.1,13.3,9.7,51.1,77.8,0.883,41426.0
+HistGradientBoosting - Existing,298905.4,137864.3,14.4,10.2,49.2,76.1,0.889,13095.0

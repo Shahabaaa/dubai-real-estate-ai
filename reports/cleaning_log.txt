@@ -1,0 +1,37 @@
+rows_read: 903,704
+dropped: not a Sales transaction: 212,873
+dropped: procedure not an ordinary sale: 36,400
+dropped: not unit/villa: 60,849
+dropped: not residential flat/villa/townhouse: 89,471
+dropped: bad or out-of-range date: 165,891
+dropped: price outside range: 812
+dropped: area outside range: 73
+dropped: price/sqm outside range: 390
+dropped: duplicate transaction_id: 0
+
+Rows kept: 336,945
+Date range: 2020-01-02 -> 2026-10-22
+
+Rows per year:
+year
+2020    11896
+2021    21490
+2022    35289
+2023    51373
+2024    74434
+2025    87942
+2026    54521
+
+Share off-plan: 67.9%
+Missing rooms: 0.1%
+
+Price (AED) / area (sqm) / ppsm summary:
+        price_aed  area_sqm      ppsm
+count    336945.0  336945.0  336945.0
+mean    1952020.0     104.0   18480.0
+std     2460982.0      80.0    8842.0
+min      150000.0      15.0    2004.0
+1%       290000.0      31.0    4812.0
+50%     1356000.0      79.0   16965.0
+99%    10381951.0     398.0   48461.0
+max    95558800.0    1949.0   79986.0

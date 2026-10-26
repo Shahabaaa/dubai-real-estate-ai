@@ -1,0 +1,129 @@
+Rows: 903,704
+Date range (instance_date): 1420-01-30 00:00:00 -> 2026-12-10 00:00:00
+
+Missing values (% of rows):
+  trans_group_en: 0.0%
+  procedure_name_en: 0.0%
+  property_type_en: 0.0%
+  property_sub_type_en: 19.5%
+  reg_type_en: 0.0%
+  rooms_en: 21.0%
+  property_usage_en: 0.0%
+  has_parking: 0.0%
+  actual_worth: 0.0%
+  meter_sale_price: 0.0%
+  procedure_area: 0.0%
+  rent_value: 97.9%
+  instance_date: 0.0%
+  area_name_en: 0.0%
+  transaction_id: 0.0%
+
+trans_group_en (top 15):
+  Sales: 690,831
+  Mortgages: 178,825
+  Gifts: 34,048
+
+procedure_name_en (top 15):
+  Sell - Pre registration: 318,205
+  Sell: 257,891
+  Mortgage Registration: 123,700
+  Delayed Sell: 78,335
+  Grant: 30,031
+  Lease to Own Registration: 29,756
+  Modify Mortgage: 11,368
+  Delayed Mortgage: 10,415
+  Sell Development: 6,584
+  Development Registration: 6,498
+  Lease Finance Registration: 4,257
+  Lease to Own Registration Pre-Registration: 4,026
+  Mortgage Pre-Registration: 3,415
+  Development Mortgage: 3,370
+  Development Registration Pre-Registration: 2,979
+
+property_type_en (top 15):
+  Unit: 648,994
+  Villa: 155,742
+  Land: 80,605
+  Building: 18,363
+
+property_sub_type_en (top 15):
+  Flat: 579,097
+  <missing>: 176,395
+  Villa: 78,174
+  Office: 37,307
+  Hotel Apartment: 15,006
+  Shop: 9,209
+  Hotel Rooms: 7,414
+  Workshop: 296
+  Stacked Townhouses: 270
+  Store: 166
+  Building: 142
+  Warehouse: 91
+  Clinic: 40
+  Show Rooms: 30
+  Hotel: 27
+
+reg_type_en (top 15):
+  Existing Properties: 572,755
+  Off-Plan Properties: 330,949
+
+rooms_en (top 15):
+  1 B/R: 247,857
+  <missing>: 190,013
+  2 B/R: 170,368
+  Studio: 131,849
+  3 B/R: 92,981
+  4 B/R: 31,468
+  Office: 30,336
+  5 B/R: 3,794
+  Shop: 3,445
+  PENTHOUSE: 794
+  Single Room: 386
+  6 B/R: 198
+  Store: 166
+  7 B/R: 30
+  GYM: 11
+
+property_usage_en (top 15):
+  Residential: 752,367
+  Commercial: 95,281
+  Other: 24,622
+  Hospitality: 22,464
+  أخرى: 3,260
+  Industrial: 2,542
+  Multi-Use: 2,200
+  Agricultural: 572
+  Storage: 363
+  Residential / Commercial: 33
+
+has_parking (top 15):
+  1: 608,655
+  0: 295,049
+
+Top 15 areas:
+  Marsa Dubai: 69,695
+  Business Bay: 59,275
+  Al Barsha South Fourth: 57,700
+  Al Thanyah Fifth: 50,433
+  Burj Khalifa: 36,943
+  Jabal Ali First: 33,981
+  Wadi Al Safa 5: 32,633
+  Al Warsan First: 29,971
+  Al Hebiah Fourth: 24,811
+  Madinat Al Mataar: 24,769
+  Hadaeq Sheikh Mohammed Bin Rashid: 22,398
+  Palm Jumeirah: 22,335
+  Al Merkadh: 21,609
+  Me'Aisem First: 18,098
+  Nadd Hessa: 17,775
+
+Numeric summary (sample):
+       actual_worth  meter_sale_price  procedure_area  rent_value
+count  1.000000e+05          100000.0        100000.0      2107.0
+mean   3.691218e+06           15151.4           819.1   1433059.0
+std    5.116853e+07           75027.9         96649.6   1730626.0
+min    2.660000e+02               0.3             0.0     94963.0
+1%     2.179966e+05             496.4            29.7    200166.1
+50%    1.350000e+06           12040.5           109.4   1047777.0
+99%    3.500000e+07           48737.7          3764.1   7145912.9
+max    1.034807e+10        10079800.0      30380644.8  39200000.0

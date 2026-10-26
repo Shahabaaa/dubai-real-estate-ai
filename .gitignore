@@ -7,3 +7,4 @@ data/processed/*
 !data/processed/.gitkeep
 models/*.pkl
 .DS_Store
+models/*.joblib
