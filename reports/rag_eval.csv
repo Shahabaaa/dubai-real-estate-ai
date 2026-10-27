@@ -1,0 +1,25 @@
+question,expected,rank_of_right_passage,top1,top3
+Who pays the registration fee when a property is sold?,ecr 30,1,True,True
+What is the fee for registering a sale contract?,ecr 30,1,True,True
+What does it cost to register a mortgage?,ecr 30,1,True,True
+What is the fee to issue a title deed?,ecr 30,1,True,True
+What is the penalty for evading Land Department fees?,ecr 30,1,True,True
+How much can rent go up if the current rent is 25% below the market average?,decree no,3,False,True
+Which index decides the average rental value?,decree no,2,False,True
+Does the rent increase decree apply in free zones?,decree no,1,True,True
+Can a developer's creditors seize money in an escrow account?,law no 8,1,True,True
+How much must the escrow agent retain after the completion certificate?,law no 8,1,True,True
+What happens if an off-plan project is not completed?,law no 8,1,True,True
+Can a developer advertise off-plan units without permission?,law no 8,1,True,True
+How much notice is needed before changing the rent at renewal?,33 of 2008,not found,False,False
+When can a landlord evict a tenant for not paying rent?,33 of 2008,1,True,True
+Must tenancy contracts be registered?,33 of 2008,2,False,True
+How long must a landlord wait before re-letting after taking the property back for personal use?,33 of 2008,1,True,True
+When was the Smart Rental Index launched?,smart rental,1,True,True
+How many rental contracts were registered in 2024?,smart rental,1,True,True
+What is the weather in Paris?,(nothing),-,True,True
+What is the best football team in Spain?,(nothing),-,True,True
+How do I bake sourdough bread?,(nothing),-,True,True
+Who won the football world cup?,(nothing),-,True,True
+What is the capital of France?,(nothing),-,True,True
+Explain quantum computing,(nothing),-,True,True
