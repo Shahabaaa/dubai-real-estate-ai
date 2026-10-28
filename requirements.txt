@@ -1,11 +1,8 @@
-pandas
-numpy
-pyarrow
-matplotlib
-seaborn
-scikit-learn
-xgboost
-lightgbm
-shap
-jupyter
-streamlit
+# Lean requirements used for deployment (Streamlit Community Cloud) and for running the app.
+# scikit-learn is pinned because the saved model must be loaded with the same version that trained it.
+streamlit>=1.50
+plotly
+pandas==3.1.0
+numpy==2.5.4
+scikit-learn==1.9.1
+joblib

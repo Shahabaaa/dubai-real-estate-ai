@@ -1,0 +1,684 @@
+area,sub_type,project,n_sales,median_ppsm,master_project,building,nearest_metro,nearest_mall,nearest_landmark,rank
+Al Barsha First,Flat,API- Barsha Residential Tower,48,19046.2,Unknown,API - Barsha Residential Tower,Sharaf Dg Metro Station,Mall of the Emirates,Burj Al Arab,1.0
+Al Barsha First,Flat,MAS Barsha Residency,31,19375.0,Unknown,MAS BARSHA RESIDENCY,Dubai Internet City,Mall of the Emirates,Burj Al Arab,2.0
+Al Barsha First,Flat,Unknown,18,13089.0,Unknown,AL MURAD TOWERS,Sharaf Dg Metro Station,Mall of the Emirates,Burj Al Arab,3.0
+Al Barsha South Fifth,Flat,Binghatti Flare 01,396,17680.3,Jumeirah Village Triangle,Binghatti Flare 01,Jumeirah Lakes Towers,Marina Mall,Sports City Swimming Academy,1.0
+Al Barsha South Fifth,Flat,Binghatti Flare 02,285,18516.6,Jumeirah Village Triangle,Binghatti Flare 02,Jumeirah Lakes Towers,Marina Mall,Sports City Swimming Academy,3.0
+Al Barsha South Fifth,Flat,CLOUD Tower,109,13112.5,Jumeirah Village Triangle,CLOUD B,Damac Properties,Marina Mall,Sports City Swimming Academy,11.0
+Al Barsha South Fifth,Flat,ELARIS Sky,116,17373.9,Jumeirah Village Triangle,ELARIS SKY,Damac Properties,Marina Mall,Sports City Swimming Academy,9.0
+Al Barsha South Fifth,Flat,ESSENLIFE RESIDENCE,130,16500.7,Jumeirah Village Triangle,ESSENLIFE RESIDENCE,Damac Properties,Marina Mall,Sports City Swimming Academy,7.0
+Al Barsha South Fifth,Flat,FH Residency,109,16230.4,Jumeirah Village Triangle,Forum Heights,Damac Properties,Marina Mall,Sports City Swimming Academy,12.0
+Al Barsha South Fifth,Flat,GUZEL TOWERS,214,17185.5,Jumeirah Village Triangle,GUZEL TOWERS,Harbour Tower,Ibn-e-Battuta Mall,Sports City Swimming Academy,4.0
+Al Barsha South Fifth,Flat,INTERSTELLAR TOWER,117,18350.4,Jumeirah Village Triangle,INTERSTELLAR TOWER,Jumeirah Lakes Towers,Marina Mall,Sports City Swimming Academy,8.0
+Al Barsha South Fifth,Flat,RED SQUARE,331,18409.5,Jumeirah Village Triangle,Red Square -B,Damac Properties,Marina Mall,Sports City Swimming Academy,2.0
+Al Barsha South Fifth,Flat,SOL LEVANTE,201,18747.7,Jumeirah Village Triangle,Sol Levante,Harbour Tower,Ibn-e-Battuta Mall,Sports City Swimming Academy,5.0
+Al Barsha South Fifth,Flat,Sky Gate Tower,113,16828.1,Jumeirah Village Triangle,Sky Gate Tower,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,10.0
+Al Barsha South Fifth,Flat,VOXA RESIDENCES,162,21078.7,Jumeirah Village Triangle,Voxa Residences,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,6.0
+Al Barsha South Fifth,Villa,Unknown,15,17708.3,Jumeirah Village Triangle,Unknown,Damac Properties,Marina Mall,Sports City Swimming Academy,1.0
+Al Barsha South Fourth,Flat,AURESTA TOWER,260,16309.6,Jumeirah Village Circle,AURESTA TOWER,Dubai Internet City,Mall of the Emirates,Sports City Swimming Academy,7.0
+Al Barsha South Fourth,Flat,Binghatti Amberhall,287,17968.6,Jumeirah Village Circle,Binghatti Amberhall,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,5.0
+Al Barsha South Fourth,Flat,Binghatti Apex,329,14229.8,Jumeirah Village Circle,Binghatti Apex,Dubai Internet City,Mall of the Emirates,Sports City Swimming Academy,3.0
+Al Barsha South Fourth,Flat,Binghatti Circle,375,17181.2,Jumeirah Village Circle,Binghatti Circle,Dubai Internet City,Marina Mall,Sports City Swimming Academy,2.0
+Al Barsha South Fourth,Flat,Binghatti Royale,187,16806.7,Jumeirah Village Circle,Binghatti Royale,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,12.0
+Al Barsha South Fourth,Flat,Binghatti Ruby,278,21210.9,Jumeirah Village Circle,Binghatti Ruby,Dubai Internet City,Mall of the Emirates,Sports City Swimming Academy,6.0
+Al Barsha South Fourth,Flat,Luma Park Views,214,16729.9,Jumeirah Village Circle,LUMA PARK VIEWS,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,10.0
+Al Barsha South Fourth,Flat,ONE SKY PARK BY IMAN,258,17568.5,Jumeirah Village Circle,ONE SKY PARK BY IMAN,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,8.0
+Al Barsha South Fourth,Flat,Serenz by Danube,319,24264.1,Jumeirah Village Circle,Serenz by Danube - TOWER A,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,4.0
+Al Barsha South Fourth,Flat,Skyhills II by HRE,250,17378.5,Jumeirah Village Circle,Skyhills Residences 2,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,9.0
+Al Barsha South Fourth,Flat,Skyhills III by HRE,204,17976.8,Jumeirah Village Circle,Skyhills Residences 3 - TOWER B,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,11.0
+Al Barsha South Fourth,Flat,Unknown,518,12610.4,Jumeirah Village Circle,AKA Residence,Dubai Internet City,Marina Mall,Sports City Swimming Academy,1.0
+Al Barsha South Fourth,Villa,SEASONS COMMUNITY- AUTUMN,24,18185.1,Jumeirah Village Circle,Unknown,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,2.0
+Al Barsha South Fourth,Villa,SEASONS COMMUNITY- SUMMER,11,14786.3,Jumeirah Village Circle,Unknown,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,3.0
+Al Barsha South Fourth,Villa,Unknown,67,17145.1,Jumeirah Village Circle,Unknown,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,1.0
+Al Barshaa South Second,Flat,11 Hills Park,104,16165.5,Dubai Science Park,11 HILLS PARK,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,9.0
+Al Barshaa South Second,Flat,Binghatti Hills,554,18047.5,Dubai Science Park,Binghatti Hills - 2,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,3.0
+Al Barshaa South Second,Flat,Binghatti Hillside,198,22688.7,Dubai Science Park,Binghatti Hillside,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,7.0
+Al Barshaa South Second,Flat,Binghatti Hillviews,782,17861.9,Dubai Science Park,Binghatti Hillviews,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,1.0
+Al Barshaa South Second,Flat,Empire Livings,84,17816.5,Dubai Science Park,Empire Livings,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,11.0
+Al Barshaa South Second,Flat,Opalz By Danube,45,15210.6,Dubai Science Park,Opalz By Danube - Tower 2,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,12.0
+Al Barshaa South Second,Flat,SAAS Hills,243,18836.8,Dubai Science Park,SAAS HILLS,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,5.0
+Al Barshaa South Second,Flat,Skyhills Astra by HRE,762,18285.1,Dubai Science Park,Sky Hills Astra Tower A,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,2.0
+Al Barshaa South Second,Flat,Skyhills I by HRE,131,15738.5,Dubai Science Park,Skyhills Residences - 1,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,8.0
+Al Barshaa South Second,Flat,Unknown,94,17515.7,Dubai Science Park,Three Towers B-2,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,10.0
+Al Barshaa South Second,Flat,Vincitore Aqua Dimore,290,17461.2,Dubai Science Park,Vincitore Aqua Dimore,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,4.0
+Al Barshaa South Second,Flat,Vincitore Aqua Flora,219,18873.9,Dubai Science Park,Vincitore Aqua Flora,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,6.0
+Al Barshaa South Third,Flat,Ashley Hills,119,15985.7,Arjan,Ashley Hills,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,6.0
+Al Barshaa South Third,Flat,Binghatti Hillcrest,148,22784.2,Arjan,BINGHATTI HILLCREST,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,4.0
+Al Barshaa South Third,Flat,Empire Estates,104,17483.1,Arjan,Empire Estates,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,9.0
+Al Barshaa South Third,Flat,Enchante By GRID,90,18899.0,Arjan,Enchante by GRID - RT2,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,11.0
+Al Barshaa South Third,Flat,Floarea  Grande,107,16784.5,Arjan,Floarea Grande,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,8.0
+Al Barshaa South Third,Flat,Marquis One,211,18334.1,Arjan,Marquis One,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,2.0
+Al Barshaa South Third,Flat,One Beverly,136,17271.1,Arjan,One Beverly,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,5.0
+Al Barshaa South Third,Flat,SKYZ By Danube,87,15968.7,Arjan,SKYZ BY DANUBE,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,12.0
+Al Barshaa South Third,Flat,Samana Imperial Garden,149,20679.2,Arjan,Samana Imperial Garden,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,3.0
+Al Barshaa South Third,Flat,The central downtown,219,15099.7,Arjan,The Central Downtown-D,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,1.0
+Al Barshaa South Third,Flat,Vincitore Dolce Vita,110,17326.5,Arjan,Vincitore DolceVita Residence,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,7.0
+Al Barshaa South Third,Flat,butterfly,100,18009.4,Arjan,butterfly-A,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,10.0
+Al Goze Fourth,Flat,AL KHAIL HEIGHTS,144,9098.2,Unknown,AL KHAIL HEIGHTS 3A-3B,Noor Bank Metro Station,Dubai Mall,Downtown Dubai,1.0
+Al Goze Fourth,Villa,AL KHAIL HEIGHTS,16,6330.8,Unknown,Unknown,Noor Bank Metro Station,Dubai Mall,Downtown Dubai,1.0
+Al Hebiah Fifth,Flat,DAMAC LAGOONS - LAGOON VIEWS 10,15,18527.9,Unknown,LAGOON VIEWS 10 - TOWER A,Unknown,Unknown,Unknown,7.0
+Al Hebiah Fifth,Flat,DAMAC LAGOONS - LAGOON VIEWS 11,53,18749.6,DAMAC Lagoons,DAMAC LAGOONS - LAGOON VIEWS 11 C,Unknown,Unknown,Unknown,5.0
+Al Hebiah Fifth,Flat,DAMAC LAGOONS - LAGOON VIEWS 12,85,18957.7,DAMAC Lagoons,DAMAC LAGOONS - LAGOON VIEWS 12 B,Unknown,Unknown,Unknown,4.0
+Al Hebiah Fifth,Flat,DAMAC LAGOONS - LAGOON VIEWS 13,542,18894.7,DAMAC Lagoons,DAMAC LAGOONS - LAGOON VIEWS 13 B,Unknown,Unknown,Unknown,2.0
+Al Hebiah Fifth,Flat,DAMAC LAGOONS - VALENCIA,688,19816.8,DAMAC Lagoons,DAMAC LAGOONS - VALENCIA TOWER A,Unknown,Unknown,Unknown,1.0
+Al Hebiah Fifth,Flat,REMRAAM,295,9502.1,Remraam,AL THAMAM 9,Unknown,Unknown,Motor City,3.0
+Al Hebiah Fifth,Flat,Remraam - Al Ramth,34,11334.6,Remraam,AL RAMTH 13,Unknown,Unknown,Motor City,6.0
+Al Hebiah Fifth,Villa,Reportage Hills,206,15454.5,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+Al Hebiah First,Flat,15 CASCADE,203,20201.7,Motor City,15 CASCADE,Dubai Internet City,Mall of the Emirates,Sports City Swimming Academy,7.0
+Al Hebiah First,Flat,ANANDA RESIDENCES,124,13904.4,Motor City,ANANDA RESIDENCES-A,Dubai Internet City,Mall of the Emirates,Sports City Swimming Academy,8.0
+Al Hebiah First,Flat,Beverly Grande,67,16259.9,Motor City,Beverly Grande,Dubai Internet City,Mall of the Emirates,Motor City,11.0
+Al Hebiah First,Flat,Binghatti Skyterraces,399,18976.6,Motor City,Binghatti Skyterraces,Unknown,Unknown,Unknown,4.0
+Al Hebiah First,Flat,CASA FLORES AND EDEN APARTMENTS,81,9579.8,Motor City,EDEN APARTMENTS,Dubai Internet City,Mall of the Emirates,Motor City,9.0
+Al Hebiah First,Flat,Mirdad,75,20216.2,Motor City,Mirdad 1,Dubai Internet City,Mall of the Emirates,Sports City Swimming Academy,10.0
+Al Hebiah First,Flat,OIA Residence,55,11397.5,Motor City,Oia Residence,Dubai Internet City,Mall of the Emirates,Motor City,12.0
+Al Hebiah First,Flat,SIERRA BY IMAN,278,18194.2,Motor City,SIERRA BY IMAN,Dubai Internet City,Mall of the Emirates,Sports City Swimming Academy,5.0
+Al Hebiah First,Flat,Sobha Orbis,1088,20505.4,Motor City,Sobha Orbis Tower E,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,1.0
+Al Hebiah First,Flat,Sobha Solis,1081,21635.5,Motor City,Sobha Solis Tower A,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,2.0
+Al Hebiah First,Flat,Takaya,235,18416.9,Motor City,Takaya - Tower C,Dubai Internet City,Mall of the Emirates,Motor City,6.0
+Al Hebiah First,Flat,Unknown,632,10111.3,Motor City,Rabdan,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,3.0
+Al Hebiah First,Villa,CASA FLORES AND EDEN APARTMENTS,11,16536.2,Motor City,Unknown,Dubai Internet City,Mall of the Emirates,Motor City,2.0
+Al Hebiah First,Villa,Unknown,22,13435.4,Motor City,Unknown,Dubai Internet City,Mall of the Emirates,Motor City,1.0
+Al Hebiah Fourth,Flat,AMAL TOWER,78,10713.0,Dubai Sports City,AMAL TOWER,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,9.0
+Al Hebiah Fourth,Flat,ASPIRZ By Danube,118,23592.4,Dubai Sports City,ASPIRZ By Danube,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,5.0
+Al Hebiah Fourth,Flat,Azizi Grand,145,14497.1,Dubai Sports City,Azizi Grand,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,2.0
+Al Hebiah Fourth,Flat,Binghatti Haven,245,15566.6,Dubai Sports City,Binghatti Haven,Dubai Internet City,Marina Mall,Sports City Swimming Academy,1.0
+Al Hebiah Fourth,Flat,CONDOR GOLF LINKS 18,136,18572.2,Dubai Sports City,CONDOR GOLF LINKS 18,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,3.0
+Al Hebiah Fourth,Flat,ELITE 10 SPORTS RESIDENCE,72,10309.3,Dubai Sports City,ELITE 10 SPORTS RESIDENCE - 2,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,12.0
+Al Hebiah Fourth,Flat,Hadley Heights 2,94,14121.5,Dubai Sports City,Hadley Heights 2,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,8.0
+Al Hebiah Fourth,Flat,Hera Tower,102,10566.6,Dubai Sports City,HERA TOWER,Dubai Internet City,Marina Mall,Sports City Swimming Academy,7.0
+Al Hebiah Fourth,Flat,MAG 777,76,16922.7,Dubai Sports City,MAG 777,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,11.0
+Al Hebiah Fourth,Flat,Sportz By Danube,78,16119.1,Dubai Sports City,Sportz By Danube - 1,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,10.0
+Al Hebiah Fourth,Flat,The Community - Sports Arena,103,13709.5,Dubai Sports City,The Community-Sports Arena,Dubai Internet City,Marina Mall,Sports City Swimming Academy,6.0
+Al Hebiah Fourth,Flat,VERDE BY VISION,124,14799.9,Dubai Sports City,VERDE BY VISION,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,4.0
+Al Hebiah Fourth,Villa,AMARA,15,22685.8,TILAL AL GHAF,Unknown,Unknown,Unknown,Unknown,3.0
+Al Hebiah Fourth,Villa,Aura,140,26095.9,TILAL AL GHAF,Unknown,Unknown,Unknown,Unknown,1.0
+Al Hebiah Fourth,Villa,Elan,79,22637.2,TILAL AL GHAF,Unknown,Unknown,Unknown,Unknown,2.0
+Al Hebiah Second,Flat,AZIZI VISTA,75,14853.4,Dubai Studio City,AZIZI VISTA,Dubai Internet City,Unknown,Motor City,6.0
+Al Hebiah Second,Flat,Arisha Terraces,165,16897.5,Dubai Studio City,Arisha Terraces - 1,Dubai Internet City,Unknown,Motor City,3.0
+Al Hebiah Second,Flat,Azizi Mirage 1,335,14932.9,Dubai Studio City,Azizi Mirage 1,Dubai Internet City,Unknown,Motor City,1.0
+Al Hebiah Second,Flat,BEACH OASIS 2,243,16647.8,Dubai Studio City,BEACH OASIS 2 - TOWER B,Dubai Internet City,Unknown,Motor City,2.0
+Al Hebiah Second,Flat,Divine Residencia,25,11424.3,Dubai Studio City,Divine Residencia,Unknown,Unknown,Motor City,11.0
+Al Hebiah Second,Flat,GHAFF LAND RESIDENCE,68,14172.6,Dubai Studio City,GHAFF LAND RESIDENCE,Dubai Internet City,Unknown,Motor City,7.0
+Al Hebiah Second,Flat,GLITZ RESIDENCE 3,36,10837.2,Dubai Studio City,GLITZ RESIDENCE 3 -TOWER 1,Dubai Internet City,Unknown,Motor City,10.0
+Al Hebiah Second,Flat,LAYA COURTYARD,81,16138.2,Dubai Studio City,LAYA COURTYARD-B,Dubai Internet City,Unknown,Motor City,5.0
+Al Hebiah Second,Flat,LAYA HEIGHTS,38,16420.0,Dubai Studio City,LAYA HEIGHTS,Sharaf Dg Metro Station,Unknown,Motor City,9.0
+Al Hebiah Second,Flat,RYAH LIVING by ALYAKKA,52,17036.3,Dubai Studio City,RYAH LIVING by ALYAKKA,Sharaf Dg Metro Station,Mall of the Emirates,Motor City,8.0
+Al Hebiah Second,Flat,SAMANA GOLF AVENUE,24,15427.1,Dubai Studio City,Samana Golf Avenue,Unknown,Unknown,Motor City,12.0
+Al Hebiah Second,Flat,Verano By Prescott,126,16138.7,Dubai Studio City,VERANO BY PRESCOTT,Unknown,Unknown,Motor City,4.0
+Al Hebiah Sixth,Flat,Mudon Views,31,13897.6,Mudon,Mudon Views 4,Unknown,Unknown,Motor City,1.0
+Al Hebiah Sixth,Villa,Mudon Al Ranim 1,58,18289.9,Mudon,Unknown,Unknown,Unknown,Unknown,2.0
+Al Hebiah Sixth,Villa,Mudon Al Ranim 2,38,18306.2,Mudon,Unknown,Unknown,Unknown,Unknown,6.0
+Al Hebiah Sixth,Villa,Mudon Al Ranim 3,75,17372.0,Mudon,Unknown,Unknown,Unknown,Unknown,1.0
+Al Hebiah Sixth,Villa,Mudon Al Ranim 4,48,17412.2,Mudon,Unknown,Unknown,Unknown,Unknown,3.0
+Al Hebiah Sixth,Villa,Mudon Al Ranim 5,39,17033.3,Mudon,Unknown,Unknown,Unknown,Unknown,5.0
+Al Hebiah Sixth,Villa,Mudon Al Ranim 6,45,16671.2,Mudon,Unknown,Unknown,Unknown,Unknown,4.0
+Al Hebiah Sixth,Villa,Mudon Al Ranim 7,25,16444.6,Mudon,Unknown,Unknown,Unknown,Unknown,8.0
+Al Hebiah Sixth,Villa,Mudon Al Ranim 8,29,16693.8,Mudon,Unknown,Unknown,Unknown,Unknown,7.0
+Al Hebiah Third,Flat,DAMAC DISTRICT,369,19650.5,DAMAC HILLS,DAMAC DISTRICT TOWER A,Unknown,Unknown,Motor City,1.0
+Al Hebiah Third,Flat,DAMAC HILLS - ARTESIA,41,13550.5,DAMAC HILLS,DAMAC HILLS - ARTESIA TOWER C,Unknown,Unknown,Motor City,9.0
+Al Hebiah Third,Flat,DAMAC HILLS - CARSON,154,14609.3,DAMAC HILLS,DAMAC HILLS - CARSON (A),Unknown,Unknown,Motor City,3.0
+Al Hebiah Third,Flat,DAMAC HILLS - GOLF GATE,58,16157.9,DAMAC HILLS,DAMAC HILLS - GOLF GATE,Unknown,Unknown,Motor City,5.0
+Al Hebiah Third,Flat,DAMAC HILLS - GOLF GATE 2,35,15569.3,DAMAC HILLS,Damac Hills - Golf Gate 2,Unknown,Unknown,Motor City,10.0
+Al Hebiah Third,Flat,DAMAC HILLS - GOLF GREENS 1,51,18508.8,DAMAC HILLS,DAMAC HILLS - GOLF GREENS 1 -TOWER A,Unknown,Unknown,Motor City,8.0
+Al Hebiah Third,Flat,DAMAC HILLS - GOLF GREENS 2,168,17732.2,DAMAC HILLS,DAMAC HILLS - GOLF GREENS 2 -TOWER B,Unknown,Unknown,Motor City,2.0
+Al Hebiah Third,Flat,DAMAC HILLS - GOLF PANORAMA,19,12539.4,DAMAC HILLS,DAMAC HILLS - GOLF PANORAMA - TOWER B,Unknown,Unknown,Motor City,12.0
+Al Hebiah Third,Flat,DAMAC HILLS - GOLF PROMENADE,110,11778.3,DAMAC HILLS,Golf Promenade 4 - A,Unknown,Unknown,Motor City,4.0
+Al Hebiah Third,Flat,DAMAC HILLS - GOLF VITA,54,15974.4,DAMAC HILLS,DAMAC HILLS - GOLF VITA - A,Unknown,Unknown,Motor City,6.0
+Al Hebiah Third,Flat,DAMAC HILLS - JASMINE,21,13609.7,DAMAC HILLS,DAMAC HILLS - JASMINE B,Unknown,Unknown,Motor City,11.0
+Al Hebiah Third,Flat,DAMAC HILLS - LORETO,54,13443.2,DAMAC HILLS,Damac Hills - LORETO 1 - A,Unknown,Unknown,Motor City,7.0
+Al Jadaf,Flat,ADEBA AZIZI,90,21981.5,Dubai Health Care City Phase 2,ADEBA AZIZI,Al Jadaf Metro Station,Dubai Mall,Downtown Dubai,9.0
+Al Jadaf,Flat,Azizi David,79,25385.5,Sama Al Jadaf,Azizi David,Creek Metro Station,Dubai Mall,Dubai International Airport,10.0
+Al Jadaf,Flat,Binghatti Cullinan,277,23673.5,Sama Al Jadaf,Binghatti Cullinan,Al Jadaf Metro Station,Dubai Mall,Burj Khalifa,2.0
+Al Jadaf,Flat,Binghatti Ghost,356,20342.8,Dubai Health Care City Phase 2,Binghatti Ghost,Unknown,Unknown,Unknown,1.0
+Al Jadaf,Flat,Binghatti Ivory,152,22878.7,Dubai Health Care City Phase 2,Binghatti Ivory,Al Jadaf Metro Station,Dubai Mall,Downtown Dubai,4.0
+Al Jadaf,Flat,Binghatti Moonlight,121,20433.5,Jaddaf Waterfront,Binghatti Moonlight,Creek Metro Station,City Centre Mirdif,Dubai International Airport,6.0
+Al Jadaf,Flat,Binghatti Pinnacle,73,22388.0,Dubai Health Care City Phase 2,Binghatti Pinnacle,Healthcare City Metro Station,Dubai Mall,Downtown Dubai,11.0
+Al Jadaf,Flat,Binghatti Starlight,242,22155.6,Dubai Health Care City Phase 2,Binghatti Starlight,Unknown,Unknown,Unknown,3.0
+Al Jadaf,Flat,Binghatti Twilight,119,18423.2,Jaddaf Waterfront,Binghatti Twilight,Creek Metro Station,City Centre Mirdif,Dubai International Airport,7.0
+Al Jadaf,Flat,Boutique 23,67,16763.0,Jaddaf Waterfront,Boutique 23,Al Jadaf Metro Station,Dubai Mall,Dubai International Airport,12.0
+Al Jadaf,Flat,MONTAGE,127,20073.0,Jaddaf Waterfront,MONTAGE,Al Jadaf Metro Station,Dubai Mall,Dubai International Airport,5.0
+Al Jadaf,Flat,Unknown,96,19717.3,Dubai Health Care City Phase 2,Affini,Healthcare City Metro Station,Dubai Mall,Downtown Dubai,8.0
+Al Khairan First,Flat,Albero,238,26679.1,Dubai Creek Harbour,Albero,Unknown,Unknown,Unknown,3.0
+Al Khairan First,Flat,Altan,214,26325.2,Dubai Creek Harbour,Altan,Unknown,Unknown,Unknown,7.0
+Al Khairan First,Flat,Creek Bay,324,29636.3,Dubai Creek Harbour,Creek Bay Tower A,Unknown,Unknown,Unknown,1.0
+Al Khairan First,Flat,Creek Beach - Canopy - Moor,113,24902.7,Dubai Creek Harbour,Creek Beach - Moor Building 4,Creek Metro Station,City Centre Mirdif,Dubai International Airport,9.0
+Al Khairan First,Flat,Creek Haven,250,28899.7,Dubai Creek Harbour,Creek Haven Tower A,Unknown,Unknown,Unknown,2.0
+Al Khairan First,Flat,Lyvia by Palace,223,28814.1,Dubai Creek Harbour,Lyvia by Palace,Unknown,Unknown,Unknown,6.0
+Al Khairan First,Flat,Montiva,225,27675.6,Dubai Creek Harbour,Montiva,Unknown,Unknown,Unknown,5.0
+Al Khairan First,Flat,Silva,232,25546.7,Dubai Creek Harbour,Silva,Unknown,Unknown,Unknown,4.0
+Al Khairan First,Flat,THE DUBAI CREEK RESIDENCES,84,24618.5,Dubai Creek Harbour,THE DUBAI CREEK RESIDENCES - NORTH TOWER 2,Creek Metro Station,Dubai Mall,Dubai International Airport,12.0
+Al Khairan First,Flat,The Cove ll,94,25535.0,Dubai Creek Harbour,The Cove II Building 4,Creek Metro Station,Dubai Mall,Dubai International Airport,11.0
+Al Khairan First,Flat,The Grand,95,28010.1,Dubai Creek Harbour,The Grand,Creek Metro Station,Dubai Mall,Dubai International Airport,10.0
+Al Khairan First,Flat,Valia,181,28028.7,Dubai Creek Harbour,Valia - Tower,Unknown,Unknown,Unknown,8.0
+Al Kheeran,Flat,Unknown,64,17545.2,Festival City,Marsa Plaza - Core 1,Al Jadaf Metro Station,City Centre Mirdif,Dubai International Airport,1.0
+Al Kifaf,Flat,1 Residences,91,22827.2,Wasl 1,1 Residences - 2,Al Jafiliya Metro Station,Dubai Mall,Burj Khalifa,3.0
+Al Kifaf,Flat,Avenue Park Towers,236,24751.4,Wasl 1,Avenue Park Towers - A,Al Jafiliya Metro Station,Dubai Mall,Burj Khalifa,1.0
+Al Kifaf,Flat,Avenue Park Towers II,20,24727.5,Wasl 1,Avenue Park Towers II,Al Jafiliya Metro Station,Dubai Mall,Burj Khalifa,6.0
+Al Kifaf,Flat,Park Gate Residences,57,19954.2,Wasl 1,PARK GATE RESIDENCES 4,Al Jafiliya Metro Station,Dubai Mall,Burj Khalifa,5.0
+Al Kifaf,Flat,Park Views Residences A,163,22293.1,Wasl 1,Park Views Residences A,Al Jafiliya Metro Station,Dubai Mall,Burj Khalifa,2.0
+Al Kifaf,Flat,Park Views Residences B,78,21794.4,Wasl 1,Park Views Residences B,Al Jafiliya Metro Station,Dubai Mall,Burj Khalifa,4.0
+Al Merkadh,Flat,AZIZI RIVIERA 61,76,24601.9,Meydan One Community,AZIZI RIVIERA 61,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,7.0
+Al Merkadh,Flat,AZIZI RIVIERA 67,77,24113.6,Meydan One Community,Azizi Riviera 67,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,6.0
+Al Merkadh,Flat,Azizi Riviera Beachfront,159,23152.9,Meydan One Community,Azizi Riviera Beachfront - Tower C,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,2.0
+Al Merkadh,Flat,Azizi Riviera Reve,74,32092.1,Meydan One Community,AZIZI RIVIERA REVE TOWER-1,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,8.0
+Al Merkadh,Flat,KENSINGTON WATERS,71,23217.7,SOBHA HARTLAND,KENSINGTON WATERS A,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,10.0
+Al Merkadh,Flat,Sobha Creek Vista Heights,120,22345.6,SOBHA HARTLAND,Sobha Creek Vista Heights - Tower A,Unknown,Unknown,Unknown,4.0
+Al Merkadh,Flat,Sobha Creek Vistas,101,22036.1,SOBHA HARTLAND,SOBHA CREEK VISTAS ? TOWER A,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,5.0
+Al Merkadh,Flat,Sobha Creek Vistas Grande,73,22510.7,SOBHA HARTLAND,Sobha Creek Vistas Grande,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,9.0
+Al Merkadh,Flat,Sobha Creek vistas Reserve,66,21993.6,SOBHA HARTLAND,Sobha Creek Vistas Reserve,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,11.0
+Al Merkadh,Flat,Sobha Hartland - Crest Grande,149,20928.8,SOBHA HARTLAND,Sobha Hartland - Crest Grande,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,3.0
+Al Merkadh,Flat,Sobha Hartland - The Crest,206,23547.9,SOBHA HARTLAND,Sobha Hartland - The Crest Tower B,Unknown,Unknown,Unknown,1.0
+Al Merkadh,Flat,Sobha Hartland Waves,62,23831.9,SOBHA HARTLAND,Sobha Hartland Waves,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,12.0
+Al Qusais Industrial Fifth,Flat,Unknown,36,6457.6,Unknown,Amber By 1XL Infra,Al Qusais Metro Station,City Centre Mirdif,Dubai International Airport,1.0
+Al Qusais Industrial Fourth,Flat,RASHA 2,10,7293.0,Unknown,TASAHEEL,Airport Free Zone,City Centre Mirdif,Dubai International Airport,1.0
+Al Rowaiyah First,Villa,Greenz By Danube,103,29166.7,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+Al Safouh First,Flat,113 RESIDENCES,27,26866.7,Sufouh Gardens,113 RESIDENCES,Dubai Internet City,Mall of the Emirates,Burj Al Arab,2.0
+Al Safouh First,Flat,AL BAHIA,11,12449.7,Sufouh Gardens,Bahia 2,Sharaf Dg Metro Station,Mall of the Emirates,Burj Al Arab,3.0
+Al Safouh First,Flat,HILIANA,10,16120.9,Sufouh Gardens,Hilliana Tower,Dubai Internet City,Mall of the Emirates,Burj Al Arab,5.0
+Al Safouh First,Flat,J8,11,15376.7,Sufouh Gardens,J8,Dubai Internet City,Mall of the Emirates,Burj Al Arab,4.0
+Al Safouh First,Flat,Unknown,29,18298.8,Sufouh Gardens,VITA Residencia,Dubai Internet City,Mall of the Emirates,Burj Al Arab,1.0
+Al Safouh Second,Flat,CAVALLI CASA TOWER,32,27453.5,Site A,Cavalli Casa Tower,Mina Seyahi,Marina Mall,Burj Al Arab,4.0
+Al Safouh Second,Flat,DAMAC CASA,40,32526.9,Site A,DAMAC CASA,Palm Jumeirah,Marina Mall,Burj Al Arab,3.0
+Al Safouh Second,Flat,ICONIC,79,38073.4,Site A,ICONIC,Dubai Internet City,Mall of the Emirates,Burj Al Arab,2.0
+Al Safouh Second,Flat,THE S TOWER,13,38894.0,Site A,The S Tower,Dubai Internet City,Marina Mall,Burj Al Arab,5.0
+Al Safouh Second,Flat,Unknown,170,11051.1,Site A,Dubai Jewel Tower,Dubai Internet City,Mall of the Emirates,Burj Al Arab,1.0
+Al Satwa,Flat,161 Jumeirah Lane,62,19693.9,Jumeirah Garden City,161 Jumeirah Lane,Emirates Towers Metro Station,Dubai Mall,Burj Khalifa,6.0
+Al Satwa,Flat,171 Garden Heights,61,19913.2,Jumeirah Garden City,171 Garden Heights,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,7.0
+Al Satwa,Flat,Coral by Vision,49,24329.9,Jumeirah Garden City,Coral by vision,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,9.0
+Al Satwa,Flat,ENSO JADE,50,23267.2,Jumeirah Garden City,ENSO JADE,Emirates Towers Metro Station,Dubai Mall,Burj Khalifa,8.0
+Al Satwa,Flat,EVERGRIN HOUSE,107,23530.8,Jumeirah Garden City,EVERGRIN HOUSE,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,1.0
+Al Satwa,Flat,EVERGRIN HOUSE 2,82,26484.2,Jumeirah Garden City,EVERGRIN House 2,Emirates Towers Metro Station,Dubai Mall,Burj Khalifa,4.0
+Al Satwa,Flat,Holm One,92,23820.6,Jumeirah Garden City,Holm One,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,3.0
+Al Satwa,Flat,KORO ONE,72,23234.1,Jumeirah Garden City,Koro One,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,5.0
+Al Satwa,Flat,Linea by Holm,94,28123.2,Jumeirah Garden City,Linea by Holm,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,2.0
+Al Satwa,Flat,Rabdan Gardens,42,23733.9,Jumeirah Garden City,Rabdan Gardens,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,10.0
+Al Satwa,Flat,Unknown,38,18235.7,Jumeirah Garden City,Garden City 2 Building,Emirates Towers Metro Station,Dubai Mall,Burj Khalifa,11.0
+Al Satwa,Flat,Villea West,37,25575.3,Jumeirah Garden City,Villea West,Emirates Towers Metro Station,Dubai Mall,Burj Khalifa,12.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 10,29,16660.2,Emirates Living,Unknown,Damac Properties,Marina Mall,Sports City Swimming Academy,7.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 11,37,15945.7,Emirates Living,Unknown,Damac Properties,Marina Mall,Sports City Swimming Academy,4.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 12,24,17833.6,Emirates Living,Unknown,Damac Properties,Marina Mall,Sports City Swimming Academy,9.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 14,44,16641.5,Emirates Living,Unknown,Damac Properties,Marina Mall,Sports City Swimming Academy,1.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 15,39,17196.9,Emirates Living,Unknown,Damac Properties,Marina Mall,Sports City Swimming Academy,2.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 2,32,17662.7,Emirates Living,Unknown,Damac Properties,Marina Mall,Sports City Swimming Academy,6.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 3,39,16983.9,Emirates Living,Unknown,Damac Properties,Marina Mall,Sports City Swimming Academy,3.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 4,21,16568.6,Emirates Living,Unknown,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,10.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 5,20,17813.3,Emirates Living,Unknown,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,12.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 7,21,18235.3,Emirates Living,Unknown,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,11.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 8,26,16948.4,Emirates Living,Unknown,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,8.0
+Al Thanayah Fourth,Villa,Emirates Living - Springs 9,35,18376.8,Emirates Living,Unknown,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,5.0
+Al Thanyah Fifth,Flat,Diamondz By Danube,339,28043.8,DMCC Master Community,Diamondz By Danube,Jumeirah Lakes Towers,Marina Mall,Sports City Swimming Academy,1.0
+Al Thanyah Fifth,Flat,ELTIERA HEIGHTS,156,27403.3,Jumeirah Islands,ELTIERA HEIGHTS,Unknown,Unknown,Unknown,6.0
+Al Thanyah Fifth,Flat,ELTIERA VIEWS,302,26628.8,Jumeirah Islands,ELTIERA VIEWS - TOWER 3,Unknown,Unknown,Unknown,3.0
+Al Thanyah Fifth,Flat,MBL Royal,70,21206.4,DMCC Master Community,MBL Royal,Jumeirah Lakes Towers,Marina Mall,Sports City Swimming Academy,12.0
+Al Thanyah Fifth,Flat,MBL Signature,126,24258.0,DMCC Master Community,MBL Signature,Damac Properties,Marina Mall,Burj Al Arab,10.0
+Al Thanyah Fifth,Flat,ME DO RE 2,128,23541.9,DMCC Master Community,ME DO RE 2,Marina Mall Metro Station,Marina Mall,Sports City Swimming Academy,9.0
+Al Thanyah Fifth,Flat,MERCER HOUSE,131,27106.3,DMCC Master Community,MERCER HOUSE - NORTH TOWER,Unknown,Unknown,Unknown,8.0
+Al Thanyah Fifth,Flat,SERENIA DISTRICT - WEST,184,27294.6,Jumeirah Islands,SERENIA DISTRICT - WEST,Unknown,Unknown,Unknown,4.0
+Al Thanyah Fifth,Flat,SEVEN CITY JLT,173,15717.6,DMCC Master Community,Seven City JLT,Damac Properties,Marina Mall,Burj Al Arab,5.0
+Al Thanyah Fifth,Flat,Saba 4,136,26271.0,DMCC Master Community,Saba 4,Jumeirah Lakes Towers,Marina Mall,Sports City Swimming Academy,7.0
+Al Thanyah Fifth,Flat,Unknown,309,14378.9,DMCC Master Community,JUMAIRAH BAY TOWER-X1-1,Damac Properties,Marina Mall,Burj Al Arab,2.0
+Al Thanyah Fifth,Flat,Verde by Sobha,101,22550.3,DMCC Master Community,Verde by Sobha,Marina Mall Metro Station,Marina Mall,Sports City Swimming Academy,11.0
+Al Thanyah First,Flat,FAHAD 2,14,9937.9,Barsha Heights,FAHAD 2,Dubai Internet City,Mall of the Emirates,Burj Al Arab,3.0
+Al Thanyah First,Flat,MADISON RESIDENCY,26,13137.9,Barsha Heights,Madison Residency,Dubai Internet City,Mall of the Emirates,Burj Al Arab,2.0
+Al Thanyah First,Flat,TWO TOWERS,12,12152.8,Barsha Heights,TWO TOWERS B,Dubai Internet City,Mall of the Emirates,Burj Al Arab,4.0
+Al Thanyah First,Flat,The Chedi Private Residences,32,20520.5,Barsha Heights,The Chedi Private Residences,Dubai Internet City,Mall of the Emirates,Burj Al Arab,1.0
+Al Thanyah Third,Flat,Golf Heights,52,26078.3,The Greens,Golf Heights,Nakheel Metro Station,Marina Mall,Burj Al Arab,2.0
+Al Thanyah Third,Flat,MOSELA,18,19789.5,The Greens,MOSELA,Dubai Internet City,Marina Mall,Burj Al Arab,4.0
+Al Thanyah Third,Flat,PANORAMA,15,21428.9,The Greens,GR PANORAMA,Nakheel Metro Station,Marina Mall,Burj Al Arab,6.0
+Al Thanyah Third,Flat,TANARO,16,21596.6,The Greens,TNARO,Nakheel Metro Station,Marina Mall,Burj Al Arab,5.0
+Al Thanyah Third,Flat,The Hills,23,25670.5,Unknown,Vida Residences 1 & 2 - The Hills,Damac Properties,Marina Mall,Burj Al Arab,3.0
+Al Thanyah Third,Flat,Unknown,474,18471.8,The Greens,AL Dhafrah-3,Dubai Internet City,Marina Mall,Burj Al Arab,1.0
+Al Thanyah Third,Villa,The Lakes Zulal,25,23900.9,Unknown,Unknown,Nakheel Metro Station,Marina Mall,Sports City Swimming Academy,1.0
+Al Thanyah Third,Villa,Unknown,11,23790.0,Lakes - Maeen,Unknown,Nakheel Metro Station,Marina Mall,Burj Al Arab,2.0
+Al Warsan First,Flat,"AYAMI RESIDENCE, BY AYAT DEVELOPMENT",116,14776.3,WARSAN FIRST DEVELOPMENT,"Ayami Residence, By Ayat Development",Rashidiya Metro Station,City Centre Mirdif,Dubai International Airport,2.0
+Al Warsan First,Flat,CLASSIC APARTMENTS,27,6030.2,International City Phase 1,CLASSIC APARTMENT,Rashidiya Metro Station,City Centre Mirdif,Unknown,9.0
+Al Warsan First,Flat,HDS SUNSTAR 1,15,7077.4,International City Phase 1,HDS SUNSTAR,Rashidiya Metro Station,City Centre Mirdif,Unknown,12.0
+Al Warsan First,Flat,INTERNATIONAL CITY EMARATI,113,6995.2,International City Phase 1,EMR-19,Rashidiya Metro Station,City Centre Mirdif,Unknown,3.0
+Al Warsan First,Flat,Lawnz Residence by Danube,82,11969.7,International City Phase 1,LAWNZ BLOCK 2,Rashidiya Metro Station,City Centre Mirdif,Unknown,4.0
+Al Warsan First,Flat,Longford Residences by Devan Real Estate Development,78,11536.2,International City Phase 1,Longford Residences by Devan Real Estate Development A,Rashidiya Metro Station,City Centre Mirdif,Unknown,5.0
+Al Warsan First,Flat,Olivz Residence,50,12477.6,WARSAN FIRST DEVELOPMENT,OLIVZ RESIDENCE BLOCK 2,Rashidiya Metro Station,City Centre Mirdif,Dubai International Airport,7.0
+Al Warsan First,Flat,PRIME RESIDENCY2,26,7596.8,International City Phase 1,Prime Residence 2,Rashidiya Metro Station,City Centre Mirdif,Unknown,11.0
+Al Warsan First,Flat,Petalz By Danube,27,12855.1,WARSAN FIRST DEVELOPMENT,Petalz By Danube - 1,Rashidiya Metro Station,City Centre Mirdif,Unknown,10.0
+Al Warsan First,Flat,Ryze by AUM,29,13427.6,WARSAN FIRST DEVELOPMENT,Ryze by AUM,Rashidiya Metro Station,City Centre Mirdif,Dubai International Airport,8.0
+Al Warsan First,Flat,Unknown,1141,6666.7,International City Phase 1,P23,Rashidiya Metro Station,City Centre Mirdif,Unknown,1.0
+Al Warsan First,Flat,YIGO26,65,12604.8,International City Phase 1,YIGO26,Rashidiya Metro Station,City Centre Mirdif,Unknown,6.0
+Al Wasl,Flat,Canal Front Residences-CF5&CF6,37,31739.7,Dubai Water Canal,CF 6,Business Bay Metro Station,Dubai Mall,Burj Khalifa,12.0
+Al Wasl,Flat,Canal Front Residences-CF7 & CF8 & CF9,85,30765.9,Dubai Water Canal,CF7 - B,Business Bay Metro Station,Dubai Mall,Burj Khalifa,6.0
+Al Wasl,Flat,City Walk Crestlane 1,106,35499.6,City Walk,City Walk Crestlane 1 Building B,Unknown,Unknown,Unknown,3.0
+Al Wasl,Flat,City Walk Crestlane 2,87,34942.7,City Walk,City Walk Crestlane 2 Building A,Unknown,Unknown,Unknown,5.0
+Al Wasl,Flat,City Walk Crestlane 3,84,34985.9,City Walk,City Walk Crestlane 3 Building A,Unknown,Unknown,Unknown,7.0
+Al Wasl,Flat,City Walk Crestlane 4,100,36263.7,City Walk,City Walk Crestlane 4 Building A,Unknown,Unknown,Unknown,4.0
+Al Wasl,Flat,City Walk Crestlane 5,78,36842.5,City Walk,City Walk Crestlane 5 Building B,Unknown,Unknown,Unknown,8.0
+Al Wasl,Flat,DAMAC CITY,60,24547.8,Dubai Water Canal,DAMAC CITY TOWER B,Business Bay Metro Station,Dubai Mall,Burj Khalifa,9.0
+Al Wasl,Flat,DAMAC CITY 2,295,32579.9,Dubai Water Canal,DAMAC CITY 2,Unknown,Unknown,Unknown,1.0
+Al Wasl,Flat,Eden House The Park,161,43923.6,Dubai Water Canal,Eden House - The Park A,Unknown,Unknown,Unknown,2.0
+Al Wasl,Flat,MR.C RESIDENCES DOWNTOWN,42,41204.3,Unknown,MR.C RESIDENCES DOWNTOWN,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Burj Khalifa,10.0
+Al Wasl,Flat,"No.17, No.18a,No.18b and No.19 Citywalk Residential",42,28777.5,City Walk,Citywalk Residential Building 18A,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Burj Khalifa,11.0
+Al Yelayiss 1,Villa,DAMAC ISLANDS 2 - ANTIGUA 1,101,20791.7,Unknown,Unknown,Unknown,Unknown,Unknown,10.0
+Al Yelayiss 1,Villa,DAMAC ISLANDS 2 - BAHAMAS 1,220,19611.1,Unknown,Unknown,Unknown,Unknown,Unknown,3.0
+Al Yelayiss 1,Villa,DAMAC ISLANDS 2 - BAHAMAS 2,227,19609.7,Unknown,Unknown,Unknown,Unknown,Unknown,2.0
+Al Yelayiss 1,Villa,DAMAC ISLANDS 2 - BARBADOS 1,166,19748.9,Unknown,Unknown,Unknown,Unknown,Unknown,7.0
+Al Yelayiss 1,Villa,DAMAC ISLANDS 2 - BARBADOS 2,156,19611.1,Unknown,Unknown,Unknown,Unknown,Unknown,8.0
+Al Yelayiss 1,Villa,DAMAC ISLANDS 2 - BERMUDA,191,19609.7,Unknown,Unknown,Unknown,Unknown,Unknown,4.0
+Al Yelayiss 1,Villa,DAMAC ISLANDS 2 - CUBA,232,19069.4,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+Al Yelayiss 1,Villa,DAMAC ISLANDS 2 - MAUI,183,20149.9,Unknown,Unknown,Unknown,Unknown,Unknown,6.0
+Al Yelayiss 1,Villa,DAMAC ISLANDS 2 - TAHITI 1,118,19600.4,Unknown,Unknown,Unknown,Unknown,Unknown,9.0
+Al Yelayiss 1,Villa,DAMAC ISLANDS 2 - TAHITI 2,188,19069.4,Unknown,Unknown,Unknown,Unknown,Unknown,5.0
+Al Yelayiss 1,Villa,REEM - MIRA OASIS COMMUNITY,57,11334.5,Al Aryam,Unknown,Unknown,Unknown,Dubai Cycling Course,11.0
+Al Yelayiss 1,Villa,REEM - MIRA OASIS COMMUNITY PHASE 2,43,11693.1,Al Aryam,Unknown,Unknown,Unknown,Dubai Cycling Course,12.0
+Al Yelayiss 2,Flat,Ellison,72,16193.5,TOWN SQUARE,Ellison,Unknown,Unknown,Unknown,9.0
+Al Yelayiss 2,Flat,Evelyn on the Park,88,19836.4,TOWN SQUARE,Evelyn on the Park,Unknown,Unknown,Unknown,3.0
+Al Yelayiss 2,Flat,HAYAT BOULEVARD,71,12339.3,TOWN SQUARE,Hayat Boulevard-1A,Unknown,Unknown,Dubai Cycling Course,11.0
+Al Yelayiss 2,Flat,LIVA,78,17011.1,TOWN SQUARE,LIVA,Unknown,Unknown,Dubai Cycling Course,6.0
+Al Yelayiss 2,Flat,Odessa,76,16399.1,TOWN SQUARE,Odessa,Unknown,Unknown,Unknown,7.0
+Al Yelayiss 2,Flat,Olbia,72,17258.4,TOWN SQUARE,OLBIA,Unknown,Unknown,Unknown,10.0
+Al Yelayiss 2,Flat,RAWDA APARTMENTS,85,13763.0,TOWN SQUARE,TOWN SQUARE - RAWDA APARTMENTS 1,Unknown,Unknown,Dubai Cycling Course,4.0
+Al Yelayiss 2,Flat,ROSEWELL,97,19169.8,TOWN SQUARE,Rosewell,Unknown,Unknown,Unknown,2.0
+Al Yelayiss 2,Flat,TOWN SQUARE JENNA AND WARDA,74,13698.9,TOWN SQUARE,Town Square Jenna 2,Unknown,Unknown,Dubai Cycling Course,8.0
+Al Yelayiss 2,Flat,TOWN SQUARE SAFI,71,12756.7,TOWN SQUARE,TOWN SQUARE SAFI 1A,Unknown,Unknown,Dubai Cycling Course,12.0
+Al Yelayiss 2,Flat,TOWN SQUARE ZAHRA,119,12819.0,TOWN SQUARE,TOWN SQUARE ZAHRA BREEZE 3A,Unknown,Unknown,Dubai Cycling Course,1.0
+Al Yelayiss 2,Flat,The Baltimore,83,16263.3,TOWN SQUARE,The Baltimore,Unknown,Unknown,Unknown,5.0
+Al Yelayiss 2,Villa,MAHA TOWNHOUSES,119,14481.8,TOWN SQUARE,Unknown,Unknown,Unknown,Unknown,1.0
+Al Yelayiss 2,Villa,NASEEM TOWNHOUSES,24,13981.5,TOWN SQUARE,Unknown,Unknown,Unknown,Unknown,6.0
+Al Yelayiss 2,Villa,NOOR TOWNHOUSES,45,13002.8,TOWN SQUARE,Unknown,Unknown,Unknown,Unknown,4.0
+Al Yelayiss 2,Villa,REEM TOWNHOUSES,15,14234.8,TOWN SQUARE,Unknown,Unknown,Unknown,Unknown,9.0
+Al Yelayiss 2,Villa,SAFI TOWNHOUSES,20,13441.5,TOWN SQUARE,Unknown,Unknown,Unknown,Dubai Cycling Course,7.0
+Al Yelayiss 2,Villa,SAMA TOWNHOUSES,16,14170.6,TOWN SQUARE,Unknown,Unknown,Unknown,Unknown,8.0
+Al Yelayiss 2,Villa,SHAMS TOWNHOUSES,48,14367.8,TOWN SQUARE,Unknown,Unknown,Unknown,Unknown,3.0
+Al Yelayiss 2,Villa,TOWN SQUARE HAYAT,56,12649.3,TOWN SQUARE,Unknown,Unknown,Unknown,Dubai Cycling Course,2.0
+Al Yelayiss 2,Villa,TOWN SQUARE ZAHRA,36,13093.4,TOWN SQUARE,Unknown,Unknown,Unknown,Dubai Cycling Course,5.0
+Al Yufrah 1,Flat,The Woods,138,20182.5,Unknown,The Woods Retreat,Unknown,Unknown,Unknown,1.0
+Al Yufrah 1,Villa,The Greens at Sobha Sanctuary,70,23376.1,Unknown,Unknown,Unknown,Unknown,Unknown,10.0
+Al Yufrah 1,Villa,The Valley - Avena,106,14076.8,The Valley,Unknown,Unknown,Unknown,Unknown,6.0
+Al Yufrah 1,Villa,The Valley - Avena 2,108,14242.5,The Valley,Unknown,Unknown,Unknown,Unknown,5.0
+Al Yufrah 1,Villa,The Valley - Elva,111,13053.5,The Valley,Unknown,Unknown,Unknown,Unknown,4.0
+Al Yufrah 1,Villa,The Valley - Kaia,89,15648.8,The Valley,Unknown,Unknown,Unknown,Unknown,7.0
+Al Yufrah 1,Villa,The Valley - Nima,70,14183.3,The Valley,Unknown,Unknown,Unknown,Unknown,11.0
+Al Yufrah 1,Villa,The Valley - Rivana,68,11838.7,The Valley,Unknown,Unknown,Unknown,Unknown,12.0
+Al Yufrah 1,Villa,The Valley - Rivera,190,14786.8,The Valley,Unknown,Unknown,Unknown,Unknown,2.0
+Al Yufrah 1,Villa,The Valley - Talia,73,13979.5,The Valley,Unknown,Unknown,Unknown,Unknown,9.0
+Al Yufrah 1,Villa,The Valley - Velora 2,169,13227.8,The Valley,Unknown,Unknown,Unknown,Unknown,3.0
+Al Yufrah 1,Villa,The Valley - Vindera,274,18998.2,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+Al Yufrah 1,Villa,The Valley-Nara,80,14942.5,The Valley,Unknown,Unknown,Unknown,Unknown,8.0
+Bukadra,Flat,310 Riverside Crescent,216,26317.9,Unknown,310 Riverside Crescent,Unknown,Unknown,Unknown,3.0
+Bukadra,Flat,320 Riverside Crescent,127,25187.6,Unknown,320 Riverside Crescent,Unknown,Unknown,Unknown,9.0
+Bukadra,Flat,340 Riverside Crescent,152,24756.9,Unknown,340 Riverside Crescent,Unknown,Unknown,Unknown,5.0
+Bukadra,Flat,350 Riverside Crescent,138,24918.5,Unknown,350 Riverside Crescent,Unknown,Unknown,Unknown,8.0
+Bukadra,Flat,360 Riverside Crescent,140,25833.5,Unknown,360 Riverside Crescent,Unknown,Unknown,Unknown,6.0
+Bukadra,Flat,BELMORE RESIDENCES,95,23874.8,Unknown,BELMORE RESIDENCES,Creek Metro Station,Dubai Mall,Downtown Dubai,12.0
+Bukadra,Flat,CLAYDON HOUSE BY ELLINGTON,197,21372.5,Unknown,CLAYDON HOUSE BY ELLINGTON,Creek Metro Station,Dubai Mall,Downtown Dubai,4.0
+Bukadra,Flat,IMTIAZ SYMPHONY TOWER,108,26393.1,Unknown,Imtiaz Symphony Tower,Creek Metro Station,Dubai Mall,Downtown Dubai,10.0
+Bukadra,Flat,PARKWAY BY PRESTIGE ONE,140,21131.9,Unknown,PARKWAY by Prestige One,Creek Metro Station,Dubai Mall,Downtown Dubai,7.0
+Bukadra,Flat,SKYSCAPE,765,26371.5,Unknown,Skyscape Altius,Unknown,Unknown,Unknown,2.0
+Bukadra,Flat,Skyvue,1071,27932.2,Unknown,Skyvue Solair,Unknown,Unknown,Unknown,1.0
+Bukadra,Flat,THE HIGHGROVE,106,26411.3,Unknown,THE HIGHGROVE,Creek Metro Station,Dubai Mall,Downtown Dubai,11.0
+Burj Khalifa,Flat,29 BOULEVARD,71,25104.8,DownTown Dubai,29 BLVD T1,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,11.0
+Burj Khalifa,Flat,ACT ONE | ACT TWO,73,32904.0,DownTown Dubai,Act One Act Two Tower 2,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Burj Khalifa,10.0
+Burj Khalifa,Flat,BURJ KHALIFA TOWERS,123,31604.7,DownTown Dubai,Burj Khalifa,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Burj Khalifa,5.0
+Burj Khalifa,Flat,BURJ VIEWS,68,18506.7,DownTown Dubai,Burj Views Podium,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,12.0
+Burj Khalifa,Flat,Binghatti Skyblade,294,42108.4,DownTown Dubai,Binghatti Skyblade,Business Bay Metro Station,Dubai Mall,Downtown Dubai,2.0
+Burj Khalifa,Flat,FORTE,105,31546.3,DownTown Dubai,Forte T1,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Burj Khalifa,6.0
+Burj Khalifa,Flat,Grande,99,35395.1,DownTown Dubai,Grande,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Burj Khalifa,7.0
+Burj Khalifa,Flat,One Residence,136,31132.5,DownTown Dubai,One Residence,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,4.0
+Burj Khalifa,Flat,SOLARA TOWER DUBAI,78,36534.9,DownTown Dubai,Solara Tower Dubai,Business Bay Metro Station,Dubai Mall,Downtown Dubai,9.0
+Burj Khalifa,Flat,THE ADDRESS DUBAI OPERA,81,41858.0,DownTown Dubai,The Address Residences Dubai Opera T2,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Burj Khalifa,8.0
+Burj Khalifa,Flat,"The St. Regis Residences, Downtown Dubai",177,33535.6,DownTown Dubai,The St. Regis Residences - Tower 1,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Burj Khalifa,3.0
+Burj Khalifa,Flat,Unknown,423,22901.7,DownTown Dubai,8 BLVD WALK,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,1.0
+Business Bay,Flat,Al Habtoor Tower,386,28288.9,Unknown,Al Habtoor Tower,Business Bay Metro Station,Dubai Mall,Downtown Dubai,4.0
+Business Bay,Flat,Bayz 102 By Danube,365,33309.4,Unknown,Bayz 102 By Danube,Unknown,Unknown,Unknown,5.0
+Business Bay,Flat,Binghatti Aquarise,659,28330.9,Business Bay,Binghatti Aquarise - TOWER A,Business Bay Metro Station,Dubai Mall,Downtown Dubai,2.0
+Business Bay,Flat,Binghatti Skyhall,342,28744.9,Business Bay,Binghatti Skyhall,Business Bay Metro Station,Dubai Mall,Downtown Dubai,6.0
+Business Bay,Flat,Binghatti Skyrise,1622,26886.8,Business Bay,Binghatti Skyrise - TOWER C,Business Bay Metro Station,Dubai Mall,Downtown Dubai,1.0
+Business Bay,Flat,Downtown Residences,197,29788.8,Unknown,DOWNTOWN RESIDENCES,Unknown,Unknown,Unknown,8.0
+Business Bay,Flat,ONDA BY KASCO,164,20922.9,Business Bay,ONDA BY KASCO,Business Bay Metro Station,Dubai Mall,Downtown Dubai,10.0
+Business Bay,Flat,One by Binghatti,327,26134.8,Business Bay,One by Binghatti,Business Bay Metro Station,Dubai Mall,Downtown Dubai,7.0
+Business Bay,Flat,Peninsula Four,151,26814.7,Business Bay,Peninsula Four - Tower 6,Business Bay Metro Station,Dubai Mall,Downtown Dubai,12.0
+Business Bay,Flat,Rove Home Marasi Drive,183,32017.2,Business Bay,Rove Home Marasi Drive,Business Bay Metro Station,Dubai Mall,Downtown Dubai,9.0
+Business Bay,Flat,Tiger Sky Tower,160,27574.2,Business Bay,TIGER SKY TOWER,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,11.0
+Business Bay,Flat,Unknown,392,16128.0,Business Bay,FALCON TOWER,Business Bay Metro Station,Dubai Mall,Burj Khalifa,3.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - AZURE 2,343,15646.5,Unknown,DAMAC Riverside Views - Azure 2 -E,Unknown,Unknown,Unknown,2.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - CAPRI 1,406,15572.7,Unknown,DAMAC Riverside Views - Capri 1 -E,Unknown,Unknown,Unknown,1.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - CAPRI 2,212,16125.8,Unknown,DAMAC Riverside Views - Capri 2 -E,Unknown,Unknown,Unknown,4.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - INDIGO 1,207,16624.2,Unknown,DAMAC Riverside Views - Indigo 1 -A,Unknown,Unknown,Unknown,5.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - INDIGO 2,180,16127.0,Unknown,DAMAC Riverside Views - Indigo 2 -A,Unknown,Unknown,Unknown,6.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - MARINE 1,135,16289.3,Unknown,DAMAC Riverside Views - Marine 1 -A,Unknown,Unknown,Unknown,9.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - MARINE 2,143,16234.8,Unknown,DAMAC Riverside Views - Marine 2 -B,Unknown,Unknown,Unknown,7.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - MARINE 3,142,15317.9,Unknown,DAMAC RIVERSIDE VIEWS - MARINE 3,Unknown,Unknown,Unknown,8.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - MARINE 4,121,15459.6,Unknown,DAMAC RIVERSIDE VIEWS - MARINE 4,Unknown,Unknown,Unknown,12.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - ROYAL 1,132,16884.9,Unknown,DAMAC Riverside Views - Royal 1 -A,Unknown,Unknown,Unknown,10.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - ROYAL 2,124,16879.0,Unknown,DAMAC Riverside Views - Royal 2 -A,Unknown,Unknown,Unknown,11.0
+Dubai Investment Park Second,Flat,DAMAC RIVERSIDE VIEWS - ROYAL 3&4,232,15812.0,Unknown,DAMAC Riverside Views - Royal 4 -B,Unknown,Unknown,Unknown,3.0
+Dubai Investment Park Second,Villa,DAMAC RIVERSIDE - IVY,111,17215.3,Unknown,Unknown,Unknown,Unknown,Unknown,6.0
+Dubai Investment Park Second,Villa,DAMAC RIVERSIDE - LUSH,133,16563.8,Unknown,Unknown,Unknown,Unknown,Unknown,4.0
+Dubai Investment Park Second,Villa,DAMAC RIVERSIDE - OLIVE,73,18770.8,Unknown,Unknown,Unknown,Unknown,Unknown,7.0
+Dubai Investment Park Second,Villa,DAMAC RIVERSIDE - SAGE,114,17544.0,Unknown,Unknown,Unknown,Unknown,Unknown,5.0
+Dubai Investment Park Second,Villa,Grand Polo - Equestra,149,25012.7,Unknown,Unknown,Unknown,Unknown,Unknown,3.0
+Dubai Investment Park Second,Villa,Grand Polo - Equiterra,243,24261.4,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+Dubai Investment Park Second,Villa,Grand Polo - Equiterra 2,202,22591.4,Unknown,Unknown,Unknown,Unknown,Unknown,2.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,City View Dubai Hills Residences,119,30180.9,Dubai Hills Estate,City view Dubai Hills Residences,Unknown,Unknown,Unknown,10.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,Elvira,106,24970.0,Dubai Hills Estate,Elvira 2,Unknown,Unknown,Unknown,11.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,Hillsedge,162,28207.6,Dubai Hills Estate,Hillsedge Tower A,Unknown,Unknown,Unknown,5.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,Keturah Reserve,124,30217.6,HADAEQ SHEIKH MOHAMMED BIN RASHID - DISRICT 7,MU-001,Unknown,Unknown,Unknown,8.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,MAG EYE Phase 1,120,18327.1,HADAEQ SHEIKH MOHAMMED BIN RASHID - DISRICT 7,MAG 980,Unknown,Dubai Mall,Downtown Dubai,9.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,PARK RIDGE,98,25943.0,Dubai Hills Estate,PARK RIDGE TOWER C,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Burj Al Arab,12.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,Palace Residences Hillside A,158,27566.4,Dubai Hills Estate,Palace Residences Hillside A,Unknown,Unknown,Unknown,6.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,Parkwood,193,27135.3,Dubai Hills Estate,Parkwood Tower B,Unknown,Unknown,Unknown,4.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,Rosehill,267,24493.5,Dubai Hills Estate,Rosehill Block B,Unknown,Unknown,Unknown,2.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,Unknown,148,19360.2,Dubai Hills Estate,SWAY RESIDENCES,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Global Village,7.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,Vida Residences Club Point,310,24301.4,Dubai Hills Estate,Vida Residences Club Point-Building A,Unknown,Unknown,Unknown,1.0
+Hadaeq Sheikh Mohammed Bin Rashid,Flat,Vida Residences Hillside,216,27572.3,Dubai Hills Estate,Vida Residences Hillside Tower B,Unknown,Unknown,Unknown,3.0
+Hadaeq Sheikh Mohammed Bin Rashid,Villa,Golf Grove,22,25041.1,DUBAI HILLS - GOLF GROVE,Unknown,Noor Bank Metro Station,Mall of the Emirates,IMG World Adventures,6.0
+Hadaeq Sheikh Mohammed Bin Rashid,Villa,Keturah Reserve,53,36691.6,HADAEQ SHEIKH MOHAMMED BIN RASHID - DISRICT 7,Unknown,Unknown,Unknown,Unknown,2.0
+Hadaeq Sheikh Mohammed Bin Rashid,Villa,MAG EYE Phase 1,60,22962.7,HADAEQ SHEIKH MOHAMMED BIN RASHID - DISRICT 7,Unknown,Unknown,Unknown,Unknown,1.0
+Hadaeq Sheikh Mohammed Bin Rashid,Villa,MAPLE,37,23959.3,DUBAI HILLS - MAPLE 1,Unknown,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,3.0
+Hadaeq Sheikh Mohammed Bin Rashid,Villa,MAPLE 2,34,19461.2,DUBAI HILLS - MAPLE 2,Unknown,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Motor City,4.0
+Hadaeq Sheikh Mohammed Bin Rashid,Villa,Maple III,27,20587.5,DUBAI HILLS - MAPLE 3,Unknown,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Global Village,5.0
+Hessyan First,Flat,BADRA PHASE 1,24,7796.4,Badra,MANARA 6,UAE Exchange Metro Station,Unknown,Dubai Parks and Resorts,1.0
+Jabal Ali First,Flat,Boulevard Park 1,114,18438.9,Wasl Gate,Boulevard Park 1-A2,Unknown,Unknown,Unknown,12.0
+Jabal Ali First,Flat,Boulevard Park 2,142,18208.9,Wasl Gate,Boulevard Park 2-D1,Unknown,Unknown,Unknown,7.0
+Jabal Ali First,Flat,Hills View at Wasl Gate,118,15746.1,Wasl Gate,HILLS VIEW AT WASL GATE,ENERGY Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,11.0
+Jabal Ali First,Flat,SPARKLZ by Danube,168,17533.3,Al Furjan,SPARKLZ by Danube - TOWER A,Ibn Battuta Metro Station,Ibn-e-Battuta Mall,Sports City Swimming Academy,5.0
+Jabal Ali First,Flat,Sobha Central,295,34713.5,DMCC-EZ2,The Pinnacle at Sobha Central,Unknown,Unknown,Unknown,4.0
+Jabal Ali First,Flat,Sobha Central Phase I,544,30677.1,DMCC-EZ2,The Horizon at Sobha Central,Harbour Tower,Marina Mall,Sports City Swimming Academy,2.0
+Jabal Ali First,Flat,Sobha Central Phase II,408,32022.5,DMCC-EZ2,The Tranquil at Sobha Central,Harbour Tower,Marina Mall,Sports City Swimming Academy,3.0
+Jabal Ali First,Flat,South Garden A,119,13994.3,Wasl Gate,South Garden A,ENERGY Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,10.0
+Jabal Ali First,Flat,South Garden B,121,14710.2,Wasl Gate,South Garden B,ENERGY Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,9.0
+Jabal Ali First,Flat,South Garden C,126,13649.6,Wasl Gate,South Garden C,ENERGY Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,8.0
+Jabal Ali First,Flat,Taiyo Residences,161,17171.1,Wasl Gate,Taiyo Residences,ENERGY Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,6.0
+Jabal Ali First,Flat,Unknown,994,9908.8,Discovery Gardens,MOG 206,Harbour Tower,Ibn-e-Battuta Mall,Sports City Swimming Academy,1.0
+Jabal Ali First,Villa,DREAMZ,20,16968.0,Al Furjan,Unknown,Ibn Battuta Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,2.0
+Jabal Ali First,Villa,Unknown,124,19258.8,Al Furjan,Unknown,Ibn Battuta Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,1.0
+Jabal Ali Industrial Second,Flat,Alexis Tower,70,13217.5,Down Town Jabal Ali,Alexis Tower,UAE Exchange Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,8.0
+Jabal Ali Industrial Second,Flat,Azizi Aura Residences,58,13680.7,Down Town Jabal Ali,Azizi Aura Residences,UAE Exchange Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,11.0
+Jabal Ali Industrial Second,Flat,Azizi Gabriel,70,18173.3,Down Town Jabal Ali,Azizi Gabriel,Unknown,Unknown,Unknown,9.0
+Jabal Ali Industrial Second,Flat,Azizi Lina,98,18911.9,Down Town Jabal Ali,Azizi Lina,UAE Exchange Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,5.0
+Jabal Ali Industrial Second,Flat,Azizi Noura,92,18463.0,Down Town Jabal Ali,Azizi Noura,Unknown,Unknown,Unknown,6.0
+Jabal Ali Industrial Second,Flat,Azizi Wares,68,18381.1,Down Town Jabal Ali,Azizi Wares,Unknown,Unknown,Unknown,10.0
+Jabal Ali Industrial Second,Flat,ELEVE BY DEYAAR,262,14075.0,Down Town Jabal Ali,ELEVE by DEYAAR,UAE Exchange Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,2.0
+Jabal Ali Industrial Second,Flat,EQUITI GATES,76,15692.0,Down Town Jabal Ali,EQUITI GATES,UAE Exchange Metro Station,Unknown,Expo 2020 Site,7.0
+Jabal Ali Industrial Second,Flat,RAW DISTRICT 2 BY IMTIAZ,165,19374.8,Down Town Jabal Ali,RAW DISTRICT 2 BY IMTIAZ - RESIDENTIAL,Unknown,Unknown,Unknown,4.0
+Jabal Ali Industrial Second,Flat,RAW DISTRICT BY IMTIAZ CR,190,19052.1,Down Town Jabal Ali,RAW DISTRICT BY IMTIAZ CR - BUILDING C,UAE Exchange Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,3.0
+Jabal Ali Industrial Second,Flat,RAW DISTRICT BY IMTIAZ R,302,18875.4,Down Town Jabal Ali,RAW DISTRICT BY IMTIAZ R - BUILDING B,Unknown,Unknown,Unknown,1.0
+Jabal Ali Industrial Second,Flat,SUBERBIA,52,7787.0,Down Town Jabal Ali,SUBURBIA A,UAE Exchange Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,12.0
+Jumeirah First,Flat,LA RIVE,25,28854.0,LA MER,La Rive - Building 4,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,5.0
+Jumeirah First,Flat,PORT DE LA MER - LE SOLEIL,39,38214.8,LA MER,Le Ciel ? Building 1,Unknown,Unknown,Unknown,1.0
+Jumeirah First,Flat,Port De La Mer - La Sirene,18,31656.1,LA MER,La Sirene - Building 1,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,7.0
+Jumeirah First,Flat,Port De La Mer - La Sirene 2,28,30427.4,LA MER,La Sirene - Building 6,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,3.0
+Jumeirah First,Flat,Port De La Mer - La Voile,19,32012.0,LA MER,La Voile - Building 3,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,6.0
+Jumeirah First,Flat,Port de La Mer - La Cote,27,30340.9,LA MER,La Cote ? Building 4,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,4.0
+Jumeirah First,Flat,Port de La Mer - Le Pont,13,32200.8,LA MER,Le Pont - Building 3,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,8.0
+Jumeirah First,Flat,"Solaya (1,2,3)",30,74045.8,LA MER,Solaya 2,Unknown,Unknown,Unknown,2.0
+Jumeirah First,Flat,"Solaya (4,6)",12,78463.4,LA MER,Solaya 6,Emirates Towers Metro Station,Dubai Mall,Burj Khalifa,9.0
+Jumeirah First,Villa,Sur La Mer,10,38740.0,LA MER,Unknown,Trade Centre Metro Station,Dubai Mall,Burj Khalifa,1.0
+Jumeirah Second,Flat,Eden House The Canal,32,51271.1,Dubai Water Canal,Eden House The Canal,Business Bay Metro Station,Dubai Mall,Burj Khalifa,1.0
+Jumeirah Second,Flat,Peninsula Dubai Residences - Tower 1,26,74491.7,Unknown,Peninsula Dubai Residences - Tower 1,Unknown,Unknown,Unknown,2.0
+Jumeirah Second,Flat,Peninsula Dubai Residences - Tower 2,19,75421.5,Unknown,Peninsula Dubai Residences - Tower 2,Unknown,Unknown,Unknown,3.0
+Madinat Al Mataar,Flat,AZIZI VENICE 10,373,18377.5,Dubai World Central,AZIZI VENICE 10 - BUILDING B,Unknown,Unknown,Unknown,8.0
+Madinat Al Mataar,Flat,AZIZI VENICE 11,322,17778.0,Dubai World Central,AZIZI VENICE 11,Unknown,Unknown,Unknown,9.0
+Madinat Al Mataar,Flat,AZIZI VENICE 14,1303,17703.1,Dubai World Central,AZIZI VENICE 14-BUILDING A,Unknown,Unknown,Unknown,1.0
+Madinat Al Mataar,Flat,AZIZI VENICE 7,572,19444.5,Dubai World Central,AZIZI Venice 07 - Building C,Unknown,Unknown,Unknown,3.0
+Madinat Al Mataar,Flat,Azizi Venice 15,460,18450.5,Dubai World Central,Azizi Venice 15 - Building B,Unknown,Unknown,Unknown,5.0
+Madinat Al Mataar,Flat,Azizi Venice 6,637,21521.2,Dubai World Central,Azizi Venice 6 - Building A,Unknown,Unknown,Unknown,2.0
+Madinat Al Mataar,Flat,Terra Gardens,261,22723.1,EXPO CITY,Terra Gardens - Building 1,Unknown,Unknown,Unknown,12.0
+Madinat Al Mataar,Flat,Terra Heights,491,22482.0,EXPO CITY,Terra Heights Building 3,UAE Exchange Metro Station,Ibn-e-Battuta Mall,Expo 2020 Site,4.0
+Madinat Al Mataar,Flat,Terra Woods,266,23577.2,EXPO CITY,Terra Woods - Building 1,Unknown,Unknown,Unknown,11.0
+Madinat Al Mataar,Flat,Unknown,268,10777.4,Dubai South Residential District,RR RESIDENCE,Unknown,Unknown,Expo 2020 Site,10.0
+Madinat Al Mataar,Flat,azizi venice 12,374,18124.4,Dubai World Central,Azizi Venice 12 - Building A,Unknown,Unknown,Unknown,7.0
+Madinat Al Mataar,Flat,azizi venice 13,420,17899.1,Dubai World Central,Azizi Venice 13 ? Building B,Unknown,Unknown,Unknown,6.0
+Madinat Al Mataar,Stacked Townhouses,THE PULSE TOWNHOUSES,19,9599.3,Dubai South Residential District,The Pulse Townhouses Cluster 40,Unknown,Unknown,Expo 2020 Site,1.0
+Madinat Al Mataar,Villa,Greenridge,157,16021.9,Dubai World Central,Unknown,Unknown,Unknown,Unknown,1.0
+Madinat Al Mataar,Villa,Greenspoint,84,17986.9,Dubai World Central,Unknown,Unknown,Unknown,Unknown,4.0
+Madinat Al Mataar,Villa,Greenspoint 2,117,17073.1,Dubai World Central,Unknown,Unknown,Unknown,Unknown,2.0
+Madinat Al Mataar,Villa,Greenville,58,16318.7,Dubai World Central,Unknown,Unknown,Unknown,Unknown,11.0
+Madinat Al Mataar,Villa,Greenville 2,77,15177.8,Dubai World Central,Unknown,Unknown,Unknown,Unknown,5.0
+Madinat Al Mataar,Villa,Hayat 1,60,15583.6,Dubai World Central,Unknown,Unknown,Unknown,Unknown,9.0
+Madinat Al Mataar,Villa,Hayat 2,61,15346.4,Dubai World Central,Unknown,Unknown,Unknown,Unknown,7.0
+Madinat Al Mataar,Villa,Hayat 3,61,14625.0,Dubai World Central,Unknown,Unknown,Unknown,Unknown,8.0
+Madinat Al Mataar,Villa,Hayat 4,96,14418.7,Dubai World Central,Unknown,Unknown,Unknown,Unknown,3.0
+Madinat Al Mataar,Villa,The Pulse Beachfront 3,56,12784.4,Dubai South Residential District,Unknown,Unknown,Unknown,Unknown,12.0
+Madinat Al Mataar,Villa,The Pulse- Beachfront,60,12758.5,Dubai South Residential District,Unknown,Unknown,Unknown,Unknown,10.0
+Madinat Al Mataar,Villa,Waada - Rayhan 1,72,14284.5,Dubai World Central,Unknown,Unknown,Unknown,Unknown,6.0
+Madinat Dubai Almelaheyah,Flat,Baystar by VIDA,148,31949.7,Mina Rashid,Baystar by VIDA Tower 1,Unknown,Unknown,Unknown,10.0
+Madinat Dubai Almelaheyah,Flat,Breez by Danube,476,37537.9,Dubai Maritime City,Breez by Danube,Al Ghubaiba Metro Station,Dubai Mall,Burj Khalifa,1.0
+Madinat Dubai Almelaheyah,Flat,CHELSEA RESIDENCES 2 BY DAMAC,459,34333.1,Dubai Maritime City,CHELSEA RESIDENCES 2 BY DAMAC TOWER-C,Al Ghubaiba Metro Station,Dubai Mall,Burj Khalifa,2.0
+Madinat Dubai Almelaheyah,Flat,CHELSEA RESIDENCES BY DAMAC,187,32820.4,Dubai Maritime City,CHELSEA RESIDENCES BY DAMAC TOWER-B,Al Ghubaiba Metro Station,Dubai Mall,Burj Khalifa,6.0
+Madinat Dubai Almelaheyah,Flat,Franck Muller Yachting,273,27943.5,Dubai Maritime City,Franck Muller Yachting,Al Ghubaiba Metro Station,Dubai Mall,Burj Khalifa,3.0
+Madinat Dubai Almelaheyah,Flat,Kanyon By Beyond,162,31096.3,Dubai Maritime City,Kanyon By Beyond,Unknown,Unknown,Unknown,8.0
+Madinat Dubai Almelaheyah,Flat,Orise,263,31330.3,Dubai Maritime City,Orise Tower 1,Unknown,Unknown,Unknown,4.0
+Madinat Dubai Almelaheyah,Flat,Saria,193,26664.8,Dubai Maritime City,Saria by Beyond,Unknown,Unknown,Unknown,5.0
+Madinat Dubai Almelaheyah,Flat,Sensia,149,32890.1,Dubai Maritime City,Sensia,Unknown,Unknown,Unknown,9.0
+Madinat Dubai Almelaheyah,Flat,Soulever' By Beyond,119,40395.2,Dubai Maritime City,Soulever By Beyond Tower-2,Unknown,Unknown,Unknown,12.0
+Madinat Dubai Almelaheyah,Flat,Talea,183,33128.9,Dubai Maritime City,Talea,Unknown,Unknown,Unknown,7.0
+Madinat Dubai Almelaheyah,Flat,The Mural,133,38826.6,Dubai Maritime City,The Mural,Unknown,Unknown,Unknown,11.0
+Madinat Hind 4,Flat,DAMAC HILLS (2) - ELO,41,13301.1,DAMAC HILLS 2,DAMAC HILLS (2)-ELO,Unknown,Unknown,Unknown,3.0
+Madinat Hind 4,Flat,DAMAC HILLS (2) - ELO 2 & ELO 3,164,13516.2,DAMAC HILLS 2,DAMAC HILLS (2) - ELO 3,Unknown,Unknown,Unknown,1.0
+Madinat Hind 4,Flat,DAMAC HILLS (2) - NAVITAS (A & B),27,12256.9,DAMAC HILLS 2,NAVITAS TOWER A,Unknown,Unknown,Unknown,4.0
+Madinat Hind 4,Flat,DAMAC HILLS (2) - VIRIDIS,49,10352.5,DAMAC HILLS 2,VIRIDIS C,Unknown,Unknown,Unknown,2.0
+Marsa Dubai,Flat,Aeternitas Tower,106,23861.5,Dubai Marina,AETERNITAS TOWER,Marina Towers,Marina Mall,Burj Al Arab,8.0
+Marsa Dubai,Flat,Bluewaters Residences,84,58161.9,Bluewaters Island,Bluewaters Residences 3,Jumeirah Beach Residency,Marina Mall,Burj Al Arab,10.0
+Marsa Dubai,Flat,DAMAC BAY 2,82,46001.4,Dubai Harbour,DAMAC BAY 2 - TOWER A,Unknown,Unknown,Unknown,11.0
+Marsa Dubai,Flat,Dubai Harbour Residences (Area 1),82,41121.0,Dubai Harbour,Dubai Harbour Residences (Area 1)-B,Unknown,Unknown,Unknown,12.0
+Marsa Dubai,Flat,Franck muller Vanguard,365,28612.2,TECOM Site D,Franck Muller Vanguard,Marina Towers,Marina Mall,Burj Al Arab,2.0
+Marsa Dubai,Flat,Marina Cove,103,27988.1,Dubai Marina,Marina Cove,Marina Mall Metro Station,Marina Mall,Burj Al Arab,9.0
+Marsa Dubai,Flat,PELaGOS By IGO,122,29420.0,Dubai Marina,Pelagos by IGO,Dubai Marina,Marina Mall,Burj Al Arab,6.0
+Marsa Dubai,Flat,ROVE HOME DUBAI MARINA,322,38314.4,Dubai Marina,ROVE HOME DUBAI MARINA,Marina Mall Metro Station,Marina Mall,Burj Al Arab,3.0
+Marsa Dubai,Flat,Sobha Seahaven Tower B & C,122,44132.0,Dubai Harbour,SOBHA SEAHAVEN - TOWER C,Unknown,Unknown,Unknown,7.0
+Marsa Dubai,Flat,THE BRISTOL Emaar Beachfront,126,56371.1,Dubai Harbour,THE BRISTOL Emaar Beachfront,Unknown,Unknown,Unknown,5.0
+Marsa Dubai,Flat,Unknown,1190,16994.6,Dubai Marina,LIV WATERSIDE,Jumeirah Beach Residency,Marina Mall,Burj Al Arab,1.0
+Marsa Dubai,Flat,W Residences at Dubai Harbour,176,48301.7,Dubai Harbour,W Residences At Dubai Harbour - Tower 1,Unknown,Unknown,Unknown,4.0
+Me'Aisem First,Flat,Binghatti Elite,900,14347.2,International Media Production Zone,Binghatti Elite,Unknown,Unknown,Unknown,1.0
+Me'Aisem First,Flat,ELM AT PARK FIVE,255,14528.7,International Media Production Zone,ELM AT PARK FIVE - A,Damac Properties,Marina Mall,Sports City Swimming Academy,4.0
+Me'Aisem First,Flat,EMBER AT PARK FIVE,99,14225.9,International Media Production Zone,EMBER AT PARK FIVE,Damac Properties,Marina Mall,Sports City Swimming Academy,10.0
+Me'Aisem First,Flat,IVY AT PARK FIVE,105,15552.1,International Media Production Zone,IVY AT PARK FIVE,Damac Properties,Marina Mall,Sports City Swimming Academy,9.0
+Me'Aisem First,Flat,JANNAT,98,13808.9,International Media Production Zone,JANNAT,Harbour Tower,Ibn-e-Battuta Mall,Sports City Swimming Academy,12.0
+Me'Aisem First,Flat,LAKESIDE,228,10610.1,International Media Production Zone,LAKESIDE C,Damac Properties,Marina Mall,Sports City Swimming Academy,5.0
+Me'Aisem First,Flat,Reef 996,116,17709.0,International Media Production Zone,REEF 996,Damac Properties,Marina Mall,Sports City Swimming Academy,8.0
+Me'Aisem First,Flat,Samana Lake Views 2,99,17064.0,International Media Production Zone,Samana Lake Views 2,Damac Properties,Marina Mall,Sports City Swimming Academy,11.0
+Me'Aisem First,Flat,Samana Resorts,502,15812.6,International Media Production Zone,Samana Resorts - TOWER B,Damac Properties,Marina Mall,Sports City Swimming Academy,2.0
+Me'Aisem First,Flat,Samana Sky Views,284,16494.8,International Media Production Zone,Samana Sky Views,Damac Properties,Marina Mall,Sports City Swimming Academy,3.0
+Me'Aisem First,Flat,Unknown,120,9610.1,International Media Production Zone,Ikarus Tower,Harbour Tower,Ibn-e-Battuta Mall,Sports City Swimming Academy,7.0
+Me'Aisem First,Flat,Vista by Vision,159,13386.6,International Media Production Zone,Vista by Vision,Unknown,Unknown,Unknown,6.0
+Me'Aisem First,Villa,JASMINE LANE,34,28861.7,Jumeirah Golf Estates,Unknown,Damac Properties,Ibn-e-Battuta Mall,Sports City Swimming Academy,1.0
+Me'Aisem First,Villa,Jumeirah Luxury,18,32155.3,Jumeirah Golf Estates,Unknown,Unknown,Unknown,Unknown,2.0
+Me'Aisem First,Villa,Terra Golf Collection,16,36343.3,Jumeirah Golf Estates,Unknown,Unknown,Unknown,Unknown,3.0
+Mirdif,Flat,MIRDIF HILLS- AL MULTAQA AVENUE,21,14132.3,Unknown,Multaqa Avenue 3,Rashidiya Metro Station,City Centre Mirdif,Dubai International Airport,3.0
+Mirdif,Flat,MIRDIF HILLS- JANAYEN AVENUE,17,12786.4,Unknown,JANAYEN AVENUE 2,Rashidiya Metro Station,City Centre Mirdif,Dubai International Airport,4.0
+Mirdif,Flat,MIRDIF HILLS- NASAYEM AVENUE,36,12337.2,Unknown,NASAYEM AVENUE 3,Rashidiya Metro Station,City Centre Mirdif,Dubai International Airport,2.0
+Mirdif,Flat,Mirdif Hills - Asayel Avenue,52,14531.3,Unknown,Mirdif Hills - Asayel Avenue,Rashidiya Metro Station,City Centre Mirdif,Dubai International Airport,1.0
+Muhaisanah First,Flat,Unknown,49,14518.8,Madinat Badr,Qamar 8,Rashidiya Metro Station,City Centre Mirdif,Dubai International Airport,1.0
+Nad Al Hamar,Flat,MYRA ONYX,14,11778.4,Unknown,MYRA ONYX,Rashidiya Metro Station,City Centre Mirdif,Dubai International Airport,2.0
+Nad Al Hamar,Flat,Unknown,34,11798.9,Unknown,Alzarooni,Rashidiya Metro Station,City Centre Mirdif,Dubai International Airport,1.0
+Nad Al Shiba First,Flat,Emerge Residences,22,24311.7,Meydan Racecourse Community,Emerge Residences by Elysian,Unknown,Unknown,Unknown,8.0
+Nad Al Shiba First,Flat,Maybach Six,539,38846.6,Meydan Racecourse Community,Maybach Six - TOWER B,Creek Metro Station,Dubai Mall,Downtown Dubai,1.0
+Nad Al Shiba First,Flat,Maybach Ultimate Luxury,136,39470.2,Meydan Racecourse Community,Maybach Ultimate Luxury - TOWER B,Creek Metro Station,Dubai Mall,Downtown Dubai,2.0
+Nad Al Shiba First,Flat,Prime Views,17,15269.7,Meydan Racecourse Community,PRIME VIEWS,Business Bay Metro Station,Dubai Mall,Downtown Dubai,12.0
+Nad Al Shiba First,Flat,Project Maybach,109,37995.6,Meydan Racecourse Community,Project Maybach,Creek Metro Station,Dubai Mall,Downtown Dubai,4.0
+Nad Al Shiba First,Flat,Solcasa Residence,19,18458.2,Nad Al Sheba Gardens,Solcasa Residence,Business Bay Metro Station,Dubai Mall,IMG World Adventures,10.0
+Nad Al Shiba First,Flat,THE POLO RESIDENCE,105,16138.1,Meydan Racecourse Community,THE POLO RESIDENCE - A3,Business Bay Metro Station,Dubai Mall,Downtown Dubai,5.0
+Nad Al Shiba First,Flat,TONINO LAMBORGHINI RESIDENCES,114,26909.8,Meydan Racecourse Community,Tonino Lamborghini 2,Creek Metro Station,Dubai Mall,Downtown Dubai,3.0
+Nad Al Shiba First,Flat,The 100,29,18847.6,Meydan Racecourse Community,The 100 - 2,Business Bay Metro Station,Dubai Mall,Downtown Dubai,7.0
+Nad Al Shiba First,Flat,The Roof Residence,21,17734.8,Nad Al Sheba Gardens,The Roof Residence,Business Bay Metro Station,Dubai Mall,IMG World Adventures,9.0
+Nad Al Shiba First,Flat,Unknown,32,14707.7,Meydan Racecourse Community,Jude residence,Business Bay Metro Station,Dubai Mall,Downtown Dubai,6.0
+Nad Al Shiba First,Flat,Woodland Crest,19,24597.5,Meydan Racecourse Community,Woodland Crest,Unknown,Unknown,Unknown,11.0
+Nad Al Shiba First,Villa,GRAND VIEWS,19,23941.7,Unknown,Unknown,Business Bay Metro Station,Dubai Mall,Downtown Dubai,5.0
+Nad Al Shiba First,Villa,Nad AL Sheba Gardens Phase 4,14,27182.9,Nad Al Sheba Gardens,Unknown,Unknown,Unknown,Unknown,7.0
+Nad Al Shiba First,Villa,Nad Al Sheba Gardens Phase 10,55,30434.1,Unknown,Unknown,Unknown,Unknown,Unknown,3.0
+Nad Al Shiba First,Villa,Nad Al Sheba Gardens Phase 11,56,33807.7,Unknown,Unknown,Unknown,Unknown,Unknown,2.0
+Nad Al Shiba First,Villa,Nad Al Sheba Gardens Phase 3,17,21099.6,Nad Al Sheba Gardens,Unknown,Unknown,Unknown,Unknown,6.0
+Nad Al Shiba First,Villa,Nad Al Sheba Gardens Phase 5,11,27675.4,Nad Al Sheba Gardens,Unknown,Unknown,Unknown,Unknown,8.0
+Nad Al Shiba First,Villa,Nad Al Sheba Gardens Phase 7,77,26491.4,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+Nad Al Shiba First,Villa,Nad Al Sheba Gardens Phase 8 & 9,35,27506.9,Unknown,Unknown,Unknown,Unknown,Unknown,4.0
+Nadd Hessa,Flat,ALTIA ONE,79,16143.4,Silicon Oasis,ALTIA ONE,Unknown,Unknown,Unknown,7.0
+Nadd Hessa,Flat,AURA ELEGANCE,29,12066.4,Silicon Oasis,AURA ELEGANCE,Unknown,Unknown,IMG World Adventures,12.0
+Nadd Hessa,Flat,AURA ELITE,31,11168.5,Silicon Oasis,AURA ELITE,Unknown,Unknown,IMG World Adventures,10.0
+Nadd Hessa,Flat,AURA PRESTIGE,33,13788.6,Silicon Oasis,AURA PRESTIGE,Unknown,Unknown,IMG World Adventures,9.0
+Nadd Hessa,Flat,BELLE VIE BY ZIMAYA,45,14064.2,Silicon Oasis,BELLE VIE BY ZIMAYA,Unknown,Unknown,Unknown,8.0
+Nadd Hessa,Flat,Oasiz 1 by Danube,158,19248.6,Silicon Oasis,OASIZ 1 by Danube,Unknown,Unknown,IMG World Adventures,3.0
+Nadd Hessa,Flat,Oasiz 2 by Danube,240,20013.5,Silicon Oasis,OASIZ 2 by Danube,Unknown,Unknown,IMG World Adventures,2.0
+Nadd Hessa,Flat,Pearls by Vision,31,12802.7,Silicon Oasis,Pearls by vision,Unknown,Unknown,Unknown,11.0
+Nadd Hessa,Flat,Serenova,99,13757.7,Silicon Oasis,Serenova,Unknown,Unknown,IMG World Adventures,5.0
+Nadd Hessa,Flat,THE HILLGATE,158,17662.4,Silicon Oasis,THE HILLGATE - TOWER B,Unknown,Unknown,IMG World Adventures,4.0
+Nadd Hessa,Flat,TRIA BY DEYAAR,91,13838.4,Silicon Oasis,TRIA BY DEYAAR,Unknown,Unknown,IMG World Adventures,6.0
+Nadd Hessa,Flat,Timez By Danube,578,21061.9,Silicon Oasis,Timez By Danube,Unknown,Unknown,IMG World Adventures,1.0
+Palm Deira,Flat,Bay Grove Residences B - Dubai Islands,116,26117.6,Palm Deira,Bay Grove Residences B - Building 7,Unknown,Unknown,Unknown,8.0
+Palm Deira,Flat,Bay Grove Residences C - Dubai Islands,177,24947.9,Palm Deira,Baygrove Residences C - Building 10,Unknown,Unknown,Unknown,5.0
+Palm Deira,Flat,Bay Grove Residences D - Dubai Islands,130,27818.0,Palm Deira,Bay Grove Residences D - Building 14,Unknown,Unknown,Unknown,7.0
+Palm Deira,Flat,"Bay Grove Residences, Dubai Islands",155,24192.6,Palm Deira,Building 04,Unknown,Unknown,Unknown,6.0
+Palm Deira,Flat,COTIER HOUSE 1 BY IMTIAZ,77,29236.2,Palm Deira,Cotier House 1 by Imtiaz,Unknown,Unknown,Unknown,10.0
+Palm Deira,Flat,ELLINGTON SANDS I,227,29709.3,Palm Deira,ELLINGTON SANDS I - TOWER A,Unknown,Unknown,Unknown,3.0
+Palm Deira,Flat,ELLINGTON SANDS II,218,30155.5,Palm Deira,ELLINGTON SANDS II - TOWER A,Unknown,Unknown,Unknown,4.0
+Palm Deira,Flat,Edgewater Residences 3,73,28345.7,Palm Deira,Edgewater Residences 3 - Building B,Palm Deira Metro Stations,Unknown,Dubai International Airport,11.0
+Palm Deira,Flat,Flora Isle,108,28885.8,Palm Deira,Flora Isle - RT1,Palm Deira Metro Stations,Unknown,Dubai International Airport,9.0
+Palm Deira,Flat,Hado By Beyond,314,33846.1,Palm Deira,Hado By Beyond Tower A,Unknown,Unknown,Unknown,1.0
+Palm Deira,Flat,Silena Residences,71,38277.8,Palm Deira,Silena Building A,Palm Deira Metro Stations,Unknown,Dubai International Airport,12.0
+Palm Deira,Flat,THE MERIVA COLLECTION,252,37547.5,Palm Deira,MERIVA SUNSET,Unknown,Unknown,Unknown,2.0
+Palm Jabal Ali,Flat,Palm Central Private Residences - Frond M,107,37371.3,Palm Jabal Ali,Building B,Unknown,Unknown,Unknown,1.0
+Palm Jabal Ali,Flat,Palm Central Private Residences - Frond N,105,37976.4,Palm Jabal Ali,Building A,Unknown,Unknown,Unknown,2.0
+Palm Jumeirah,Flat,FAIRMONT PALM RESIDENCE,48,27030.4,Palm Jumeirah,THE RESIDENCES NORTH,Palm Jumeirah,Marina Mall,Burj Al Arab,6.0
+Palm Jumeirah,Flat,GOLDEN MILE,68,19938.2,Palm Jumeirah,GOLDEN MILE 5,Palm Jumeirah,Marina Mall,Burj Al Arab,4.0
+Palm Jumeirah,Flat,MARINA RESIDENCE,88,22284.1,Palm Jumeirah,Marina Apartments 4,Palm Jumeirah,Marina Mall,Burj Al Arab,3.0
+Palm Jumeirah,Flat,Palm Beach Towers -1,25,38360.3,Palm Jumeirah,PALM BEACH TOWERS -1,Palm Jumeirah,Marina Mall,Burj Al Arab,12.0
+Palm Jumeirah,Flat,Passo By Beyond,136,63881.2,Palm Jumeirah,Passo by Beyond - TOWER A,Mina Seyahi,Marina Mall,Burj Al Arab,2.0
+Palm Jumeirah,Flat,ROYAL AMWAJ,43,23236.4,Palm Jumeirah,ROYAL AMWAJ RESIDENCES SOUTH,Al Sufouh,Mall of the Emirates,Burj Al Arab,8.0
+Palm Jumeirah,Flat,SERENIA LIVING,47,46484.3,Palm Jumeirah,Serenia Living - Tower 1,Mina Seyahi,Marina Mall,Burj Al Arab,7.0
+Palm Jumeirah,Flat,Seven Hotel and Apartments The Palm,64,38245.7,Palm Jumeirah,SEVEN HOTEL & APARTMENTS THE PALM - A,Palm Jumeirah,Marina Mall,Burj Al Arab,5.0
+Palm Jumeirah,Flat,THE 8,27,40844.4,Palm Jumeirah,THE 8,Mina Seyahi,Marina Mall,Burj Al Arab,11.0
+Palm Jumeirah,Flat,THE PALM TOWER,38,45356.7,Palm Jumeirah,THE PALM TOWER,Palm Jumeirah,Marina Mall,Burj Al Arab,9.0
+Palm Jumeirah,Flat,TIARA RESIDENCE,33,33222.6,Palm Jumeirah,TANZANITE,Knowledge Village,Marina Mall,Burj Al Arab,10.0
+Palm Jumeirah,Flat,Unknown,207,26865.5,Palm Jumeirah,Al Sarrood,Palm Jumeirah,Marina Mall,Burj Al Arab,1.0
+Ras Al Khor Industrial First,Flat,AMAAL 8,123,23300.1,Unknown,AMAAL 8,Creek Metro Station,Dubai Mall,Downtown Dubai,3.0
+Ras Al Khor Industrial First,Flat,SOBHA ONE,408,24008.9,Unknown,Sobha One - B,Unknown,Unknown,Unknown,1.0
+Ras Al Khor Industrial First,Flat,The Element at Sobha One,146,27932.3,Unknown,The Element at Sobha One,Unknown,Unknown,Unknown,2.0
+Saih Shuaib 1,Villa,LUNAYA,216,29196.0,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+Saih Shuaib 2,Flat,Al Haseen Residence 3,76,15500.0,Unknown,Al Haseen Residence 3,Unknown,Unknown,Dubai Parks and Resorts,5.0
+Saih Shuaib 2,Flat,Al Haseen Residence 4,80,15554.0,Unknown,Al Haseen Residence 4,Unknown,Unknown,Dubai Parks and Resorts,3.0
+Saih Shuaib 2,Flat,Coventry Curve,14,13262.9,Unknown,Coventry Curve,Unknown,Unknown,Dubai Parks and Resorts,10.0
+Saih Shuaib 2,Flat,Elanora by zoya,24,16240.3,Unknown,Elanora by zoya,Unknown,Unknown,Dubai Parks and Resorts,9.0
+Saih Shuaib 2,Flat,Samana Hills South,248,16308.2,Unknown,Samana Hills South - TOWER B,Unknown,Unknown,Dubai Parks and Resorts,1.0
+Saih Shuaib 2,Flat,Samana Hills South 2,65,17202.4,Unknown,Samana Hills South 2 - A,Unknown,Unknown,Dubai Parks and Resorts,6.0
+Saih Shuaib 2,Flat,Samana Hills South 3,78,16262.4,Unknown,Samana Hills South 3,Unknown,Unknown,Dubai Parks and Resorts,4.0
+Saih Shuaib 2,Flat,Samana South Haven,50,17193.6,Unknown,Samana South Haven,Unknown,Unknown,Dubai Parks and Resorts,8.0
+Saih Shuaib 2,Flat,South Lofts by Premier Choice,52,13565.5,Unknown,South Lofts by Premier Choice,Unknown,Unknown,Dubai Parks and Resorts,7.0
+Saih Shuaib 2,Flat,Unknown,122,10534.3,Unknown,Harmony Point,Unknown,Unknown,Dubai Parks and Resorts,2.0
+Saih Shuaib 2,Villa,South Park Residences By Wellington,15,9521.8,Unknown,Unknown,UAE Exchange Metro Station,Unknown,Al Makhtoum International Airport,1.0
+Trade Center First,Flat,SOL LUXE,40,35971.0,Unknown,Sol Luxe,Financial Centre,Dubai Mall,Burj Khalifa,2.0
+Trade Center First,Flat,Trump Tower,198,39677.7,Unknown,Trump Tower,Financial Centre,Dubai Mall,Burj Khalifa,1.0
+Trade Center Second,Flat,Jumeirah Residences Emirates Towers,343,51536.4,Unknown,Jumeirah Residences Emirates Tower A,Unknown,Unknown,Unknown,1.0
+Um Suqaim Third,Flat,Al Jazi - Madinat Jumeriah Living,57,29502.7,Unknown,Al Jazi 2,Unknown,Unknown,Unknown,3.0
+Um Suqaim Third,Flat,Asayel at Madinat Jumeirah Living,19,30967.4,Unknown,Asayel 3,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Burj Al Arab,7.0
+Um Suqaim Third,Flat,Jadeel -Madinat Jumeirah Living,54,31743.4,Unknown,Jadeel 3,Unknown,Unknown,Unknown,4.0
+Um Suqaim Third,Flat,Jomana,26,28521.4,Unknown,Jomana 7,Unknown,Unknown,Unknown,5.0
+Um Suqaim Third,Flat,Lamaa,64,28309.5,Unknown,Lamaa 2,Unknown,Unknown,Unknown,2.0
+Um Suqaim Third,Flat,Madinat Jumeirah Living,12,32024.3,Unknown,Madinat Jumeirah Living Lamtara 2,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Burj Al Arab,9.0
+Um Suqaim Third,Flat,Madinat Jumeriah Living - Phase 2,21,31847.1,Unknown,Madinat Jumeirah Living Rahaal 2,First Abu Dhabi Bank Metro Station,Mall of the Emirates,Burj Al Arab,6.0
+Um Suqaim Third,Flat,Nourelle,100,30419.7,Unknown,Nourelle Building 2,Unknown,Unknown,Unknown,1.0
+Um Suqaim Third,Flat,Riwa,14,34127.0,Unknown,Riwa Building 1,Unknown,Unknown,Unknown,8.0
+Wadi Al Safa 2,Flat,Alma Gardens,39,12797.3,Liwan1,Alma Gardens,Unknown,Unknown,Unknown,8.0
+Wadi Al Safa 2,Flat,BELGRAVIA GARDENS,364,17088.7,Falcon City,BELGRAVIA GARDENS - TOWER C,Unknown,Unknown,IMG World Adventures,1.0
+Wadi Al Safa 2,Flat,Celine By Vision,74,12431.6,Liwan1,Celine By Vision,Unknown,Unknown,IMG World Adventures,5.0
+Wadi Al Safa 2,Flat,EMPIRE LAKEVIEWS,272,17426.5,Liwan1,EMPIRE LAKE VIEWS,Unknown,Unknown,IMG World Adventures,2.0
+Wadi Al Safa 2,Flat,Karma,39,10778.6,Liwan1,Karma,Unknown,Unknown,IMG World Adventures,9.0
+Wadi Al Safa 2,Flat,Platinum by vision,50,11067.1,Liwan1,Platinum by vision,Unknown,Unknown,IMG World Adventures,7.0
+Wadi Al Safa 2,Flat,QPOINT LIWAN-PLOT R008 A&B,28,7907.8,Liwan1,Mazaya 10 - B,Unknown,Unknown,IMG World Adventures,11.0
+Wadi Al Safa 2,Flat,Reem by vision,101,12101.3,Liwan1,Reem by vision,Unknown,Unknown,IMG World Adventures,3.0
+Wadi Al Safa 2,Flat,Sakura Gardens by HRE,99,17542.5,Falcon City,Skyhills Gardens - D,Unknown,Unknown,IMG World Adventures,4.0
+Wadi Al Safa 2,Flat,Symbolic Altus,26,13618.9,Liwan1,Symbolic Altus,Unknown,Unknown,IMG World Adventures,12.0
+Wadi Al Safa 2,Flat,Unknown,51,11097.0,Liwan1,AYAT PARK VIEW,Unknown,Unknown,IMG World Adventures,6.0
+Wadi Al Safa 2,Flat,Wavez Residence,34,13017.4,Liwan1,WAVEZ RESIDENCE,Unknown,Unknown,IMG World Adventures,10.0
+Wadi Al Safa 2,Villa,Bianca,84,13734.4,Unknown,Unknown,Unknown,Unknown,IMG World Adventures,1.0
+Wadi Al Safa 3,Flat,Binghatti Skyflame 1,438,14889.8,Majan,Binghatti Skyflame 1,Unknown,Unknown,IMG World Adventures,2.0
+Wadi Al Safa 3,Flat,Binghatti Skyflame 2,224,15063.4,Majan,Binghatti Skyflame 2,Unknown,Unknown,IMG World Adventures,8.0
+Wadi Al Safa 3,Flat,Binghatti Titania,359,19368.7,Majan,BINGHATTI TITANIA,Unknown,Unknown,IMG World Adventures,5.0
+Wadi Al Safa 3,Flat,Binghatti Vintage,769,20000.0,Majan,Binghatti Vintage,Unknown,Unknown,IMG World Adventures,1.0
+Wadi Al Safa 3,Flat,Jade Tower,108,13778.0,Majan,Jade Tower,Unknown,Unknown,IMG World Adventures,12.0
+Wadi Al Safa 3,Flat,LAZORD BY LAPIS,121,15947.4,Majan,LAZORD BY LAPIS,Unknown,Unknown,IMG World Adventures,10.0
+Wadi Al Safa 3,Flat,LIVING LEGENDS PHASE 5,168,14992.8,Living Legends,CINDERELLA,Unknown,Unknown,Global Village,9.0
+Wadi Al Safa 3,Flat,Rabdan Gates,225,15386.3,Majan,Rabdan Gates,Unknown,Unknown,IMG World Adventures,7.0
+Wadi Al Safa 3,Flat,Samana Barari Heights,374,19607.3,Majan,Samana Barari Heights,Unknown,Unknown,IMG World Adventures,4.0
+Wadi Al Safa 3,Flat,Samana Barari Lagoons,275,17339.1,Majan,Samana Barari Lagoons,Unknown,Unknown,Unknown,6.0
+Wadi Al Safa 3,Flat,THE HAVEN,109,14293.4,Majan,The Haven - Tower A,Unknown,Unknown,IMG World Adventures,11.0
+Wadi Al Safa 3,Flat,Unknown,387,9155.3,Majan,Paradise View - 2,Unknown,Unknown,IMG World Adventures,3.0
+Wadi Al Safa 3,Villa,ALBARARI IXORA VILLAS,38,38531.0,Al Barari,Unknown,Unknown,Unknown,Unknown,4.0
+Wadi Al Safa 3,Villa,Karl Lagerfeld Villas By Taraf,11,26934.4,Mohammed Bin Rashid AL Maktoum District 11,Unknown,Unknown,Unknown,Unknown,10.0
+Wadi Al Safa 3,Villa,Knightsbridge Park,29,27754.0,Mohammed Bin Rashid AL Maktoum District 11,Unknown,Unknown,Unknown,Unknown,5.0
+Wadi Al Safa 3,Villa,Knightsbridge Park 2,14,31706.6,Mohammed Bin Rashid AL Maktoum District 11,Unknown,Unknown,Unknown,Unknown,8.0
+Wadi Al Safa 3,Villa,Lua Residences,15,25506.1,Mohammed Bin Rashid AL Maktoum District 11,Unknown,Unknown,Unknown,Unknown,6.0
+Wadi Al Safa 3,Villa,"Mohammed Bin Rashid Al Maktoum City, District 11- Opal Gardens",15,17776.6,Mohammed Bin Rashid AL Maktoum District 11,Unknown,Unknown,Unknown,Unknown,7.0
+Wadi Al Safa 3,Villa,NUMA RESERVE,10,30885.6,Mohammed Bin Rashid AL Maktoum District 11,Unknown,Unknown,Unknown,Unknown,11.0
+Wadi Al Safa 3,Villa,THE FIELDS AT D11 - MBRMC,134,16825.8,Mohammed Bin Rashid AL Maktoum District 11,Unknown,Unknown,Unknown,IMG World Adventures,2.0
+Wadi Al Safa 3,Villa,THE WATERCREST BY ELLINGTON,46,31499.5,Mohammed Bin Rashid AL Maktoum District 11,Unknown,Unknown,Unknown,IMG World Adventures,3.0
+Wadi Al Safa 3,Villa,Taormina Village 1,154,24779.4,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+Wadi Al Safa 3,Villa,Wadi Villas by Arista,10,31077.0,Mohammed Bin Rashid AL Maktoum District 11,Unknown,Unknown,Unknown,Unknown,12.0
+Wadi Al Safa 3,Villa,Wellington Grand Villas,12,32473.1,Mohammed Bin Rashid AL Maktoum District 11,Unknown,Unknown,Unknown,Unknown,9.0
+Wadi Al Safa 4,Flat,AZIZI MILAN 51,112,18701.1,City Of Arabia,AZIZI MILAN 51,Unknown,Unknown,IMG World Adventures,12.0
+Wadi Al Safa 4,Flat,Arancia Yards 2 By Beyond,151,19239.1,City Of Arabia,Arancia Yards 2 By Beyond - Building C,Unknown,Unknown,Unknown,9.0
+Wadi Al Safa 4,Flat,Arancia Yards By Beyond,119,18866.8,City Of Arabia,Arancia Yards By Beyond - Building C,Unknown,Unknown,Unknown,11.0
+Wadi Al Safa 4,Flat,Azizi Milan 20,185,17292.8,City Of Arabia,AZIZI Milan 20,Unknown,Unknown,IMG World Adventures,7.0
+Wadi Al Safa 4,Flat,Azizi Milan 30,191,17699.0,City Of Arabia,AZIZI Milan 30,Unknown,Unknown,Unknown,6.0
+Wadi Al Safa 4,Flat,Azizi Milan 55,127,18419.3,City Of Arabia,Azizi Milan 55,Unknown,Unknown,IMG World Adventures,10.0
+Wadi Al Safa 4,Flat,Azizi Milan Heights,405,18890.6,City Of Arabia,Azizi Milan Heights - Tower G,Unknown,Unknown,IMG World Adventures,1.0
+Wadi Al Safa 4,Flat,CAPRIA EAST,261,22086.5,Unknown,CAPRIA 5,Unknown,Unknown,Unknown,3.0
+Wadi Al Safa 4,Flat,CAPRIA WEST,354,21680.3,Unknown,CAPRIA 10,Unknown,Unknown,Unknown,2.0
+Wadi Al Safa 4,Flat,DISTRIKT,208,21155.7,Unknown,Distrikt-1,Unknown,Unknown,Unknown,4.0
+Wadi Al Safa 4,Flat,Lacina,173,20493.1,Unknown,Lacina Building 3,Unknown,Unknown,Unknown,8.0
+Wadi Al Safa 4,Flat,Laguna Residence,195,17322.4,City Of Arabia,Laguna Residence - A,Unknown,Unknown,IMG World Adventures,5.0
+Wadi Al Safa 4,Villa,California Village,32,15357.3,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+Wadi Al Safa 5,Flat,Cove Grand Residence by Imtiaz,263,16375.7,Dubai Land Residence Complex,Cove Grand Residence by Imtiaz,Unknown,Unknown,Unknown,6.0
+Wadi Al Safa 5,Flat,Kensington Gardens,168,14580.5,Dubai Land Residence Complex,Kensington Gardens,Unknown,Unknown,IMG World Adventures,12.0
+Wadi Al Safa 5,Flat,Peace Lagoons II by Peace Homes,282,17684.8,Dubai Land Residence Complex,Peace Lagoons II by Peace Homes,Unknown,Unknown,IMG World Adventures,5.0
+Wadi Al Safa 5,Flat,Peace Lagoons by Peace Homes,384,16347.3,Dubai Land Residence Complex,Peace Lagoons by Peace Homes,Unknown,Unknown,IMG World Adventures,2.0
+Wadi Al Safa 5,Flat,Rise by Athlon 1,185,17899.5,Unknown,AZUL,Unknown,Unknown,Unknown,11.0
+Wadi Al Safa 5,Flat,SKY COURTS,299,7536.1,Dubai Land Residence Complex,Skycourts Tower D,Unknown,Unknown,IMG World Adventures,4.0
+Wadi Al Safa 5,Flat,Samana Boulevard Heights,248,17456.4,Dubai Land Residence Complex,Samana Boulevard Heights,Unknown,Unknown,IMG World Adventures,7.0
+Wadi Al Safa 5,Flat,Samana IBIZA,225,16032.9,Dubai Land Residence Complex,Samana IBIZA,Unknown,Unknown,IMG World Adventures,8.0
+Wadi Al Safa 5,Flat,Samana Parkville,200,16580.0,Dubai Land Residence Complex,Samana Parkville,Unknown,Unknown,IMG World Adventures,9.0
+Wadi Al Safa 5,Flat,THE BOULEVARD BY PRESTIGE ONE,195,15036.7,Dubai Land Residence Complex,THE BOULEVARD BY PRESTIGE ONE,Unknown,Unknown,IMG World Adventures,10.0
+Wadi Al Safa 5,Flat,Unknown,342,9063.9,Dubai Land Residence Complex,MAYA 3,Unknown,Unknown,IMG World Adventures,3.0
+Wadi Al Safa 5,Flat,Verdes by Haven 1,498,15016.7,Unknown,Building 2 - SAGE,Unknown,Unknown,Unknown,1.0
+Wadi Al Safa 5,Villa,ATHLON BY AL DAR 1,139,16206.8,Unknown,Unknown,Unknown,Unknown,Unknown,3.0
+Wadi Al Safa 5,Villa,ATHLON BY AL DAR 2,95,16737.3,Unknown,Unknown,Unknown,Unknown,Unknown,5.0
+Wadi Al Safa 5,Villa,Arabain Ranches lll - Bliss,73,25524.5,Arabian Ranches 3,Unknown,Unknown,Unknown,Unknown,7.0
+Wadi Al Safa 5,Villa,Arabian Ranches lll - Anya,61,17260.4,Arabian Ranches 3,Unknown,Unknown,Unknown,Unknown,8.0
+Wadi Al Safa 5,Villa,Arabian Ranches lll - Anya 2,43,17398.5,Arabian Ranches 3,Unknown,Unknown,Unknown,Unknown,12.0
+Wadi Al Safa 5,Villa,Arabian Ranches lll - Raya,55,16742.6,Arabian Ranches 3,Unknown,Unknown,Unknown,Unknown,9.0
+Wadi Al Safa 5,Villa,Haven By Aldar 1,79,16355.2,Unknown,Unknown,Unknown,Unknown,Unknown,6.0
+Wadi Al Safa 5,Villa,Haven By Aldar 2,118,16374.7,Unknown,Unknown,Unknown,Unknown,Unknown,4.0
+Wadi Al Safa 5,Villa,La Tilia at Villanova Phase 1,215,14983.9,Unknown,Unknown,Unknown,Unknown,Unknown,2.0
+Wadi Al Safa 5,Villa,La Tilia at Villanova Phase 2,239,15270.4,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+Wadi Al Safa 5,Villa,La Violeta 1,47,17644.9,Unknown,Unknown,Unknown,Unknown,IMG World Adventures,11.0
+Wadi Al Safa 5,Villa,La Violeta 2,48,16882.9,Unknown,Unknown,Unknown,Unknown,IMG World Adventures,10.0
+Wadi Al Safa 6,Villa,Unknown,151,15257.4,Arabian Ranches - 1,Unknown,Unknown,Unknown,Global Village,1.0
+Wadi Al Safa 7,Flat,Mayfair Nexus by Seven Mayfair,16,15892.5,Dubai Life Style City,Meridian,Unknown,Unknown,Hamdan Sports Complex,4.0
+Wadi Al Safa 7,Flat,RUKAN,175,11000.6,Rukan,Rukan - Building B,Unknown,Unknown,Unknown,1.0
+Wadi Al Safa 7,Flat,Rukan Residence,34,12485.0,Rukan,Rukan Residences,Unknown,Unknown,Unknown,2.0
+Wadi Al Safa 7,Flat,Unknown,22,9698.6,Al Waha Villas,C63,Unknown,Unknown,Dubai Cycling Course,3.0
+Wadi Al Safa 7,Villa,AR II - Reem Community,12,17451.3,Arabian Ranches II,Unknown,Unknown,Unknown,Motor City,8.0
+Wadi Al Safa 7,Villa,AR II Camelia,16,17237.7,Arabian Ranches II,Unknown,Unknown,Unknown,Motor City,7.0
+Wadi Al Safa 7,Villa,Reportage Village 1,542,14522.6,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+Wadi Al Safa 7,Villa,Rukan 3,243,13948.0,Rukan,Unknown,Unknown,Unknown,Unknown,2.0
+Wadi Al Safa 7,Villa,SERENA BELLA CASA,31,13600.3,800 Villas,Unknown,Unknown,Unknown,Hamdan Sports Complex,5.0
+Wadi Al Safa 7,Villa,Serena - Casa Viva,27,12521.8,800 Villas,Unknown,Unknown,Unknown,Hamdan Sports Complex,6.0
+Wadi Al Safa 7,Villa,Serena Casa Dora,39,13079.9,800 Villas,Unknown,Unknown,Unknown,Hamdan Sports Complex,4.0
+Wadi Al Safa 7,Villa,THE SUSTAINABLE CITY,45,22296.5,THE SUSTAINABLE CITY,Unknown,Unknown,Unknown,Dubai Cycling Course,3.0
+Warsan Fourth,Flat,08 Life Residences,42,10982.4,International City Phase 3,08 Life Residences,Rashidiya Metro Station,City Centre Mirdif,Unknown,11.0
+Warsan Fourth,Flat,4B Living,43,11146.5,International City Phase 3,4B Living,Rashidiya Metro Station,City Centre Mirdif,Unknown,10.0
+Warsan Fourth,Flat,Glorious Central Residences,49,13663.1,International City Phase 3,Glorious Central Residences,Rashidiya Metro Station,City Centre Mirdif,Unknown,8.0
+Warsan Fourth,Flat,Greenfield by Samana Developers,144,15216.4,International City Phase 3,Greenfield by Samana Developers,Rashidiya Metro Station,City Centre Mirdif,Unknown,2.0
+Warsan Fourth,Flat,HZ RESIDENCES 4,40,9530.0,International City Phase 3,HZ RESIDENCES 4,Unknown,Unknown,Unknown,12.0
+Warsan Fourth,Flat,MAYFLOWER RESIDENCES,52,8652.5,International City Phase 3,MAYFLOWER RESIDENCES,Rashidiya Metro Station,City Centre Mirdif,Unknown,6.0
+Warsan Fourth,Flat,Moonsa Residences 2,55,15499.9,International City Phase 3,Moonsa Residences 2,Rashidiya Metro Station,City Centre Mirdif,Unknown,5.0
+Warsan Fourth,Flat,SPORTS VIEW RESIDENCE BY AL HELAL AL ZAHABY,63,10348.3,International City Phase 3,HZ RESIDENCES 5,Rashidiya Metro Station,City Centre Mirdif,Unknown,3.0
+Warsan Fourth,Flat,Silver Park Residency,44,10763.9,International City Phase 3,Silver Park Residency,Rashidiya Metro Station,City Centre Mirdif,Unknown,9.0
+Warsan Fourth,Flat,TAVORA RESIDENCES BY JHK HEIGHTS REAL ESTATE DEVELOPMENT,51,12512.8,International City Phase 3,TAVORA RESIDENCES BY JHK HEIGHTS REAL ESTATE DEVELOPMENT,Rashidiya Metro Station,City Centre Mirdif,Unknown,7.0
+Warsan Fourth,Flat,Unknown,422,9700.0,International City Phase 3,BOND,Rashidiya Metro Station,City Centre Mirdif,Unknown,1.0
+Warsan Fourth,Flat,Zenith Residences,56,11454.4,International City Phase 3,Zenith Residences,Unknown,Unknown,Unknown,4.0
+Zaabeel First,Flat,Address Residences Zabeel,77,29760.2,Unknown,Address Residences Zabeel Tower 3,Al Jafiliya Metro Station,Dubai Mall,Burj Khalifa,1.0
+Zaabeel First,Flat,One Za'abeel,35,46980.9,Unknown,One Za'abeel The Residences,Unknown,Unknown,Unknown,2.0
+Zaabeel Second,Flat,Akala Hotels and Residences,95,46129.2,Dubai International Financial Center,Akala Residences,Financial Centre,Dubai Mall,Burj Khalifa,4.0
+Zaabeel Second,Flat,Artistry One Residences,94,33721.6,Business Park,Artistry One Residences,Unknown,Unknown,Unknown,5.0
+Zaabeel Second,Flat,Artistry Two Residences,36,34557.3,Business Park,Artistry Two Residences,Unknown,Unknown,Unknown,6.0
+Zaabeel Second,Flat,Atelis at d3,150,28097.8,Business Park,Atelis at d3,Unknown,Unknown,Unknown,2.0
+Zaabeel Second,Flat,DESIGN QUARTER,25,28454.6,Business Park,Design Quarter - Tower B,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Downtown Dubai,8.0
+Zaabeel Second,Flat,DOWNTOWN VIEWS,35,28721.3,Unknown,DOWNTOWN VIEWS,Buj Khalifa Dubai Mall Metro Station,Dubai Mall,Burj Khalifa,7.0
+Zaabeel Second,Flat,Downtown Views II,132,29015.8,Unknown,Downtown Views II T3,Financial Centre,Dubai Mall,Burj Khalifa,3.0
+Zaabeel Second,Flat,THE EDIT at d3,165,35413.1,Business Park,Tower A,Unknown,Unknown,Unknown,1.0

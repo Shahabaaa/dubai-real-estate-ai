@@ -1,0 +1,13 @@
+# Everything needed to clean data, train and explore. Install with: pip install -r requirements-dev.txt
+pandas
+numpy
+pyarrow
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+shap
+jupyter
+streamlit
+plotly

@@ -8,3 +8,4 @@ data/processed/*
 models/*.pkl
 .DS_Store
 models/*.joblib
+!models/price_model.joblib
