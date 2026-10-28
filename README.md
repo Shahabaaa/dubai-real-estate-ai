@@ -4,14 +4,16 @@ A data science and AI project on the Dubai property market. It forecasts market 
 an individual apartment or villa, explains why the model gives a particular price, and answers questions about
 Dubai property regulations from official documents.
 
-**Status: Phases 1 to 3 complete. Phase 4 (public deployment) is optional and not started.**
+**Live app: https://dubai-real-estate-ai-kdge5fuetmryzocfsbqfyx.streamlit.app/**
+
+**Status: all four phases complete.**
 
 ## Roadmap
 
 - [x] **Phase 1:** Clean the quarterly market summary and forecast sales volume
 - [x] **Phase 2:** Property-level price model, evaluated on unseen 2026 sales
 - [x] **Phase 3:** Explanations of the model's estimates, and a regulations assistant with a retrieval test
-- [ ] **Phase 4 (optional):** Public deployment and dashboard
+- [x] **Phase 4:** Public web app (price estimator and market explorer) on Streamlit Community Cloud
 
 ## Data
 
@@ -71,6 +73,9 @@ Charts: `reports/pred_vs_actual.png` and `reports/feature_importance.png`.
 - The model was trained on 2020 to 2025 and tested on 2026. Tree-based models cannot extrapolate beyond the
   dates they have seen, so the model effectively assumes late-2025 price levels. Regular retraining is needed.
 - Villa results rest on only 4,772 test sales.
+- The model learns apartment versus villa mostly through project, building and nearby-landmark context, not from
+  the property type itself (type and sub-type had about 0% effect in the explanations). The web app therefore asks
+  for a project, and only offers areas that have recent sales of the chosen type.
 - Training hit the 800-iteration cap, so tuning could improve results slightly.
 - The model is scikit-learn's `HistGradientBoostingRegressor`. The script uses LightGBM automatically when it can
   be loaded, which was not possible on the Intel Mac this was developed on.
@@ -162,6 +167,21 @@ these same questions, so the results are somewhat optimistic. A fresh set of que
 The assistant gives general information, not legal advice. Laws can be amended, so check the current official
 version.
 
+## Phase 4: web app
+
+Live at **https://dubai-real-estate-ai-kdge5fuetmryzocfsbqfyx.streamlit.app/** (free hosting: the app may be asleep when unused and take a moment to wake up).
+
+- **Price estimator:** choose property type, area, project, status, size, bedrooms and parking. It shows an
+  estimated price with a likely range (plus or minus 10%) and where the price per sq m sits against typical sales
+  in that area over the last 12 months.
+- **Market explorer:** most expensive areas, a price-versus-off-plan-share bubble chart, and quarterly price and
+  volume trends for units and villas.
+- **About the model:** the test results, charts and limitations.
+
+The app reads small summary files (`app/data/`) and the saved model, never the raw data. `src/prepare_deploy.py`
+builds those files, compresses the model, and pins the package versions that trained it. The regulations
+assistant runs locally only, because the official documents are not redistributed in this repo.
+
 ## Phase 1: quarterly sales forecast
 
 On the last four observed quarters, a trend-plus-season model reaches 16.1% MAPE, against 24.8% for repeating the
@@ -184,6 +204,8 @@ python3 src/explain.py                                       # Phase 3a explanat
 # put the documents in data/docs/
 python3 src/rag.py "your question"                           # Phase 3b assistant
 python3 src/rag_eval.py                                      # Phase 3b retrieval test
+python3 src/prepare_deploy.py                                # Phase 4: app data and model
+streamlit run app/streamlit_app.py                           # Phase 4: run the app locally
 ```
 
 ## Structure
@@ -198,5 +220,9 @@ src/explain.py               Shapley-value explanations
 src/predict.py               load the model and estimate one price
 src/rag.py                   regulations assistant
 src/rag_eval.py              retrieval test
+src/prepare_deploy.py        builds the app's data files, compresses the model, pins versions
+app/streamlit_app.py         web app
+app/charts.py                chart helpers
+app/data/                    small summary files used by the app
 reports/                     metrics, charts, cleaning log, retrieval test results
 ```
